@@ -6,7 +6,7 @@ tags:
 ---
 <center>
 <font size="8">Project Name<br>
-<font size="5">Team ###<br>
+<font size="5">Team 206 ###<br>
 **Submission: month, DD, YYYY**<br>
 Semester and Year<br>
 <font size="4">Arizona State University<br>
