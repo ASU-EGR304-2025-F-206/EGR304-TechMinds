@@ -8,10 +8,10 @@ tags:
 <font size="8">Project Name<br>
 <font size="5">Team 206 ###<br>
 **Submission: month, DD, YYYY**<br>
-Semester and Year<br>
+Fall 2025<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
-Professor Name<br>
+Kevin Nichols<br>
   
 
 </center>
@@ -27,6 +27,6 @@ Professor Name<br>
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
 | Name #1                | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/) |
-| Name #2                | link |
+| Mihir Patel            | link |
 | Name #3                | link |
 | Name #4                | link |
