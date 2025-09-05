@@ -5,8 +5,8 @@ tags:
 - tag2
 ---
 <center>
-<font size="8">Project Name<br>
-<font size="5">Team 206 ###<br>
+<font size="8">TechMinds<br>
+<font size="5">Team 206<br>
 **Submission: month, DD, YYYY**<br>
 Fall 2025<br>
 <font size="4">Arizona State University<br>
