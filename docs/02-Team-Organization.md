@@ -18,10 +18,13 @@ For reference, our team organization process is further detailed in ["Appendix: 
 
 ## Product Mission Statement
 
-In defining our product's purpose, our team focused on identifying the core user problem we are aiming to solve and the value our solution will provide. We evaluated user needs, market gaps, and the broader impact our product could have in real-world applications.
+Next, we wanted to make sure our product has a clear, meaningful purpose—something more than just a course requirement.
+
 
 > **Product Mission Statement:**  
-> *"Our mission is to design a user-centered, reliable, and accessible embedded system that addresses a specific challenge with practical and innovative engineering solutions."*
+> *“To create a user-friendly embedded system that enhances daily interactions by integrating seamless, reliable, and scalable technology—designed for real people and real-world use.”*
 
-This statement was the result of multiple brainstorming sessions during our concept development phase. We used tools like problem framing, stakeholder analysis, and voice-of-the-customer exercises to refine what our product stands for. The final mission statement serves as a guiding principle for all design and implementation decisions.
+This statement isn’t just words on a page. We refined it through back-and-forth edits, aligning it with what we’re excited to deliver. It reminds us to stay focused on the “why” behind our work.
+
+This statement was the result of multiple brainstorming sessions during our concept development phase. The final mission statement serves as a guiding principle for all design and implementation decisions.
 
