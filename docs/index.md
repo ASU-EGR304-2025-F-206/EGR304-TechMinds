@@ -1,8 +1,8 @@
 ---
 title: Home
 tags:
-- tag1
-- tag2
+- EGR304
+- Team Report
 ---
 <center>
 <font size="8">TechMinds<br>
@@ -11,22 +11,29 @@ tags:
 Fall 2025<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
-Kevin Nichols<br>
+Professor Kevin Nichols<br>
   
 
 </center>
 
 ## Team Introduction
-> This will be updated as part of the preparation for the External Review.<br>
->    * This needs to be updated to reflect a team introduction.<br>
->    * Content should also help an unfamiliar reader navigate to areas of interest.
+> Welcome to the TechMinds project report website for EGR 304.  
+> This site presents a high-level overview of our team's structure, goals, responsibilities, and project planning.  
+> You can navigate to key sections using the top navigation menu:
+>
+> - **Team Organization:** Charter, mission, communication methods, and team roles  
+> - **Appendix:** Supporting documentation and additional planning details  
+> - **Datasheets:** Individual team member backgrounds and skill sets
 
 
 ## Team Members Datasheet links
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
-| Mihir Patel            | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/) |
-| Mihir Patel            | link |
-| Name #3                | link |
-| Name #4                | link |
+| Mihir Patel            | [Mihir-Patel-64.github.io](https://mihir-patel-64.github.io/mihirpatel-individual.github.io/) |
+| Adrian Perez           | link |
+| Drew Sattre            | link |
+| Zane Brauer            | link |
+
+
+> *Note: This homepage will be updated further as we prepare for the External Review.*
