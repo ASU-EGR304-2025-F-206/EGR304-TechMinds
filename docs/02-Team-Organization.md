@@ -25,6 +25,3 @@ Next, we wanted to make sure our product has a clear, meaningful purpose—somet
 > *“To create a user-friendly embedded system that enhances daily interactions by integrating seamless, reliable, and scalable technology—designed for real people and real-world use.”*
 
 This statement isn’t just words on a page. We refined it through back-and-forth edits, aligning it with what we’re excited to deliver. It reminds us to stay focused on the “why” behind our work.
-
-This statement was the result of multiple brainstorming sessions during our concept development phase. The final mission statement serves as a guiding principle for all design and implementation decisions.
-
