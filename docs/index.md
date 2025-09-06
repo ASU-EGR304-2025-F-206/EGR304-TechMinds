@@ -32,7 +32,7 @@ Professor Kevin Nichols<br>
 | ---------------------- | -----------------------|
 | Mihir Patel            | [Mihir-Patel-64.github.io](https://mihir-patel-64.github.io/mihirpatel-individual.github.io/) |
 | Adrian Perez           | link |
-| Drew Sattre            | link |
+| Drew Sattre            | drewsattre.github.io |
 | Zane Brauer            | link |
 
 
