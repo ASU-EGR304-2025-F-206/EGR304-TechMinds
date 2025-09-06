@@ -43,20 +43,20 @@ _**Appendix Table 2**: Weekly Schedule_
 
 | Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
-| 8:00 AM | - | - | - | - | - | Z | Z |
-| 9:00 AM | Z | Z | - | Z | - | M,Z | Z |
-| 10:00 AM | Z | Z | - | Z | - | M,Z | Z |
-| 11:00 AM | Z | Z | M | Z | M | M,Z | Z |
-| 12:00 PM | Z | M,Z | - | M,Z | - | M,Z | Z |
-| 1:00 PM | - | M | Z | M | Z | M,Z | Z |
-| 2:00 PM | - | - | Z | - | Z | M,Z | Z |
-| 3:00 PM | - | - | Z | - | Z | M,Z | Z |
-| 4:00 PM | - | - | M | - | M | M,Z | Z |
-| 5:00 PM | - | - | M | - | M | M,Z | Z |
-| 6:00 PM | - | - | M | - | M | M,Z | Z |
-| 7:00 PM | - | - | M,Z | - | M,Z | Z | Z |
-| 8:00 PM | - | - | Z | - | Z | Z | Z |
-| 9:00 PM | - | - | Z | - | Z | Z | Z |
+| 8:00 AM | D | - | - | - | - | Z,A,D | Z,A,D |
+| 9:00 AM | Z,D | Z | - | Z | - | M,Z,A,D | Z,A,D |
+| 10:00 AM | Z,D | Z | - | Z | - | M,Z,A,D | Z,A,D |
+| 11:00 AM | Z,D | Z | M | Z | M | M,Z,A,D | Z,A,D |
+| 12:00 PM | Z,D | M,Z | - | M,Z | A,D | M,Z,A,D | Z,A,D |
+| 1:00 PM | D | M | Z | M | Z,A,D | M,Z,A,D | Z,A,D |
+| 2:00 PM | A,D | - | Z | - | Z,A,D | M,Z,A,D | Z,A,D |
+| 3:00 PM | A,D | - | Z,A | - | Z,A,D | M,Z,A,D | Z,A,D |
+| 4:00 PM | A,D | A | M,A | A | M,A,D | M,Z,A,D | Z,A,D |
+| 5:00 PM | A,D | A,D | M,A | A,D | M,A,D | M,Z,A,D | Z,A,D |
+| 6:00 PM | A,D | A,D | M,A | A,D | M,A,D | M,Z,A,D | Z,A,D |
+| 7:00 PM | D | A,D | M,Z,A | A,D | M,A,Z,D | Z,A,D | Z,A,D |
+| 8:00 PM | D | A,D | Z,A | A,D | Z,A,D | Z,A,D | Z,A,D |
+| 9:00 PM | D | - | Z | - | Z | Z,A,D | Z,A,D |
 
 _**Table Legend for Appendix Table 2**_
 
