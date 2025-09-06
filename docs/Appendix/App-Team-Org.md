@@ -116,3 +116,4 @@ _**Appendix Table 2**: Project Roles and Duties_
 We, undersigned, agree to abide by this Team Charter:
 **Mihir Patel**, 
 **Adrian Perez**
+**Drew Sattre**
