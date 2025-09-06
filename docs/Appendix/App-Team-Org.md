@@ -33,8 +33,9 @@ Based on the information provided on in the "Team Member Communication Modes," t
  
 ## Communication Procedures
 
-**Instructor Correspondence**: Assignment Leader handles instructor communication, with updates summarized in Text Messages.
-**File Sharing**: Google Drive folder(team-shared) for reports, diagrams, and minutes. GitHub repositories for code, schematics, and datasheets. 
+1. **Instructor Correspondence**: Assignment Leader handles instructor communication, with updates summarized in Text Messages.
+
+2. **File Sharing**: Google Drive folder(team-shared) for reports, diagrams, and minutes. GitHub repositories for code, schematics, and datasheets. 
 
 ## Meeting Schedule
 
@@ -85,7 +86,7 @@ _**Appendix Table 2**: Project Roles and Duties_
 | Assignment leader | Coordinates the team's work on a given assignment to Canvas before the due date                                                           | Adrian Perez  |
 | Project monitor   | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status | Zane Brauer  |
 
-**Process for Roles**:
+## Process for Roles
 
 1. Roles rotates every **2 weeks** to give each member experience. 
 2. Assignments made during weekly meetings by consensus.
@@ -97,10 +98,10 @@ _**Appendix Table 2**: Project Roles and Duties_
 1. Assignments must be finished **48 hours** before deadlines for review.
 2. Each member must "sign off" on work before submission. 
 3. Feedback from design reviews shared with entire team and acted upon in next cycle
-**Missed Work Policy**: 
-First occurrence - private reminder
-Second occurrence - team discussion + redistribution of tasks
-Ongoing issues - escalate to instructor
+4. Missed Work Policy: 
+**First occurrence** - private reminder,
+**Second occurrence** - team discussion + redistribution of tasks,
+**Ongoing issues** - escalate to instructor
 
 ## Conflict Recognition & Resolution
 
