@@ -114,4 +114,4 @@ _**Appendix Table 2**: Project Roles and Duties_
 ## Signatures
 
 We, undersigned, agree to abide by this Team Charter:
-1. **Mihir Patel**
+**Mihir Patel**
