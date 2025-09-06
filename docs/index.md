@@ -31,8 +31,8 @@ Professor Kevin Nichols<br>
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
 | Mihir Patel            | [Mihir-Patel-64.github.io](https://mihir-patel-64.github.io/mihirpatel-individual.github.io/) |
-| Adrian Perez           | link |
-| Drew Sattre            | drewsattre.github.io |
+| Adrian Perez           | [Adrian-XP.github.io](https://adrian-xp.github.io/) |
+| Drew Sattre            | [drewsattre.github.io](https://drewsattre.github.io/) |
 | Zane Brauer            | link |
 
 
