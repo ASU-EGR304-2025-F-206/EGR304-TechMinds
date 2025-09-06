@@ -85,7 +85,8 @@ _**Appendix Table 2**: Project Roles and Duties_
 | Assignment leader | Coordinates the team's work on a given assignment to Canvas before the due date                                                           | Adrian Perez  |
 | Project monitor   | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status | Zane Brauer  |
 
-**Process for Roles**
+**Process for Roles**:
+
 1. Roles rotates every **2 weeks** to give each member experience. 
 2. Assignments made during weekly meetings by consensus.
 3. Team members support one another to ensure role responsibilities are met.
@@ -93,9 +94,9 @@ _**Appendix Table 2**: Project Roles and Duties_
 
 ## Team Coordination & Accountability
 
-1. Assignments must be finished 48 hours before deadlines for review.
+1. Assignments must be finished **48 hours** before deadlines for review.
 2. Each member must "sign off" on work before submission. 
-3. Feedback from design reviews shared with entire team and acted upon in next cycle. 
+3. Feedback from design reviews shared with entire team and acted upon in next cycle
 **Missed Work Policy**: 
 First occurrence - private reminder
 Second occurrence - team discussion + redistribution of tasks
@@ -113,4 +114,3 @@ Ongoing issues - escalate to instructor
 
 We, undersigned, agree to abide by this Team Charter:
 Mihir Patel
-
