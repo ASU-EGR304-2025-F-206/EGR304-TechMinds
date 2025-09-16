@@ -10,7 +10,7 @@ tags:
 As a team, we collaboratively developed our charter at the beginning of the semester to establish a shared foundation of values, goals, and responsibilities. We reviewed several examples, including ASU’s institutional charter, to guide our discussion and ensure alignment with the spirit of inclusion, innovation, and accountability.
 
 > **Team 206 Charter:**  
-> *"Team 206 is committed to fostering a collaborative and inclusive environment where every member contributes actively toward the development of meaningful, real-world engineering solutions. Our work is guided by open communication, shared responsibility, and a collective drive to grow both individually and as a team."*
+> *"Team 206 is committed to fostering a collaborative, inclusive environment where every member actively contributes toward creating meaningful, real-world embedded systems. We prioritize user-centered design, safety, and reliable engineering practices as we design a modular motion-and-light-sensing curtain control subsystem. Our work is guided by open communication, shared responsibility, timely feedback, and a focus on measurable outcomes. "*
 
 This charter represents more than just a mission statement—it reflects how we intend to work together, make decisions, and hold each other accountable throughout the course. It was agreed upon through group discussion, with input from all members, and was documented formally during our initial planning phase.
 
@@ -22,6 +22,6 @@ Next, we wanted to make sure our product has a clear, meaningful purpose—somet
 
 
 > **Product Mission Statement:**  
-> *“To create a user-friendly embedded system that enhances daily interactions by integrating seamless, reliable, and scalable technology—designed for real people and real-world use.”*
+> *“Create a modular, low-cost curtain control subsystem that uses motion and ambient light sensing to automatically open and close curtains. The system should improve comfort, privacy, and energy efficiency in everyday homes and apartments, be easy to install, and interface with the class 8-wire ribbon connector and PIC18F57Q43 microcontroller.”*
 
 This statement isn’t just words on a page. We refined it through back-and-forth edits, aligning it with what we’re excited to deliver. It reminds us to stay focused on the “why” behind our work.
