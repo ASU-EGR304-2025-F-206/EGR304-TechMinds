@@ -10,6 +10,8 @@ tags:
 **Price:** $99.99  
 **Vendor:** [Amazon](https://www.amazon.com/Automatic-Rod-Bluetooth-Smartphone-Upgraded-High-Performance/dp/B0F8BR5Q66/ref=sr_1_1_sspa?crid=1XIA3QECS6L8C&dib=eyJ2IjoiMSJ9.faYlJG8XE4-_ncyBFqG0MWZ9j2bFj06O1CK0riaT1PD1KXU5jcGbNYUkOE7lL2jZ_75cpuQTQGI9VbjbFfa85LBjpOpT7OoUfcvJW4XoFyaw72fWeAPjN2r0st6JUayP2spadIGtYAph-hYXn0Jp_17VlTeqqitDKbLsLhJe8HDXegPjJZVaSmWf_luG20YFA3OAb-_cR1N9sqNLLl6rgCKr1sk7BLDrx8KEUKryR7FxxJPwynYyy19gJqagr278O23Sb3vpyprSd0W-1h6a44iQvEu5nI3zLuwwAhxM8Lo.Z7pXDlZSNauMkCwsXTPC1cMWrfYlcwMPwoJkdaGLZfQ&dib_tag=se&keywords=switchbot%2Bcurtain%2B3&qid=1757976092&sprefix=switchbot%2Bcurtain%2B%2Caps%2C196&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&smid=AZJMNAZLHZV6F&th=1)
 
+![SwitchBot 3](images/SwitchBot_3.jpg)
+
 ### Description
 The **SwitchBot Curtain 3** is a retrofit motor that automates existing curtains.  
 It offers **easy installation**, **quiet operation**, and **smart home integration**.
@@ -38,6 +40,8 @@ It offers **easy installation**, **quiet operation**, and **smart home integrati
 **Price:** $149.99  
 **Vendor:** [Amazon](https://www.amazon.com/RYSE-SmartCurtain-Motorized-Curtains-Automated/dp/B0DQR1XZ3P/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.Ch7_089fj71TLpvqE6gmiQoNCr9aax7uj0HU4oM0uBxsqLjsLws_0zkU67vz4l_qffmVH24AYyEPxweo3kXy_SUBWxLbh1vec652Llp6wPKR9jTOFUnbLQLNQNkCs7woCmfKqNQhTGXyCTFzwRHRSY7GwCHsWMvTpa4QkRy41sHfd4BSKIicaqByJd8qNnDryEwDh2PQq7vDEoPazoIazKjWHoMLFX_dlC0tSNE0cmzZCU7cVNuhvF7Lzdn16cSntIVu5PNtoGw4TpHEh67u6159L7VQ7nSs1zEeLVo4vzs.Y7nlIhEZUflXEavAH7HUHPcLzmevmw8lHeCHK1DiRek&dib_tag=se&keywords=smart+curtain+motor&qid=1757975923&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
 
+![RYSE](images/RYSE.jpg)
+
 ### Description
 The **RYSE SmartCurtain** transforms your existing curtains into motorized, app-controlled drapes for effortless operation.  
 It works with most curtain setups and allows remote control via **iOS** or **Android** devices.  
@@ -65,6 +69,8 @@ The device is **battery-powered**, **easy to install**, and designed for conveni
 
 **Price:** $139.99  
 **Vendor:** [IKEA](https://www.ikea.com/us/en/p/praktlysing-cellular-blind-smart-wireless-battery-operated-white-10514278/)
+
+![IKEA](images/IKEA.jpg)
 
 ### Description
 The **IKEA Motorized Blinds** are a sleek **solar-and-battery-powered** cellular (honeycomb) blind in white, offering **soft light filtering** while helping **insulate your room** against drafts and heat.  
@@ -100,6 +106,8 @@ The **cordless design** makes them safer for homes with children and pets, while
 **Price:** $249.00  
 **Vendor:** [Amazon](https://www.amazon.com/Quoya-Automated-%E3%80%90Motorized-Adjustable-Compatible/dp/B07X3XTFWS/ref=sr_1_1?crid=1SJQPVLNB4DZB&dib=eyJ2IjoiMSJ9.R0Cj2V5RyTmm_9TE1Wd0FlcAHF9SArvW-OHeo-sMraJKLgyeUc89oooGC4i8N6ID5bO0qSImKZjg4T26LR4MkzH2EuOeiLTbEbdsHkv2v7AtD8Z6FhuO4wYzq0sS_3sv-bo68ORge4Of34dq2EIej9LtUNFYWi07B62MyZLybkJYRDNgi2e_e3rdKzORi6-rLIGXSosUcvjL85BnBF4FuZdvbV3XD1vKTjQqjboIIxHZqvAqSyM-8HL-PkaIvELdtJtMgQ9qAFutvKYWmaNxxD9Ed7H6DDmZiHamW6Jvhhw.00vp0ykw_HT29if0akr0OG7vP0fcVmojQHoN3s4eVoY&dib_tag=se&keywords=motorised%2Bcurtain%2Bsystem&qid=1757986211&sprefix=aqara%2Bmotorised%2Bcurtain%2Bsystem%2Caps%2C316&sr=8-1&th=1)
 
+![Quoya](images/Quoya.jpg)
+
 ### Description
 The **Quoya Smart Curtain System** is a **motorized track solution** designed to automate drapes across **large windows or room spans** (up to 3–7 meters).  
 
@@ -132,6 +140,8 @@ Includes **mounting brackets and power cable** for a complete setup.
 
 **Price:** $191.00  
 **Vendor:** [Amazon](https://www.amazon.com/Yoolax-Motorized-Electric-Blackout-Compatible/dp/B0DT6PN65X/ref=sr_1_37_sspa?crid=1SJQPVLNB4DZB&dib=eyJ2IjoiMSJ9.Y5knnwhfdrhqdKpRkS_9vlqSG-9kLdNUiWSSogHRjp9uPaqRxwk_N4wAY4JBTiWGqpD2S3X94JkfBGlJhTuWDrsZ9jZod3Ji2lZlNyIu5GafvCE3DikkOwr9wJ6OY6ByHr7Jt9uMMDqM5BdemicPsMydkslZiKavffdHUu412YfEpqLGtBmcOiq0aFPGpP_0cAhefTGHjvY3rAbYtAyyjHPihIjUH1xFmR3Ys2Tza0HIfQbq2x1rGI-tUZzBHry468SfLKhTNszG732RKiSD463Z-eYk9AS2AgMKK3su-JQ.qvXxEGqu2O5t2AJmlwdIM0pMsiqPB8OWGVPTbjsXVCQ&dib_tag=se&keywords=motorised%2Bcurtain%2Bsystem&qid=1757995291&sprefix=aqara%2Bmotorised%2Bcurtain%2Bsystem%2Caps%2C316&sr=8-37-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9idGY&th=1)
+
+![Yoolax](images/Yoolax.jpg)
 
 ### Description
 The **Yoolax Motorized Electric Zebra Blinds** provide **stylish and functional** window treatments.  
