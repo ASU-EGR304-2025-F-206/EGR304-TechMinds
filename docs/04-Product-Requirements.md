@@ -1,9 +1,8 @@
 ---
 title: Product Requirements
 tags:
-- smart home
-- adaptive technology
-- automatic curtain opener
+- tag1
+- tag2
 ---
 
 ## Project Objective
