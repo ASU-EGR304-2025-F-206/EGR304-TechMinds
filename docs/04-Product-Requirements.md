@@ -41,44 +41,44 @@ Michael later personalized the schedules so that his blackout curtains slide clo
 The innovative curtain motor product design will be developed based on proven products, together with substantial user and market insights obtained during research. Priorities are coded **P1 to P10**, lowest first.
 
 ### Hardware / Product Design
-- **1.1** – The surface must be smooth with rounded edges to ensure safety, especially in homes with children or pets, minimizing the risk of injury or fabric damage. (P10)  
-- **1.2** – The device housing shall be made from durable, recyclable materials meeting RoHS environmental standards. (P9)  
-- **1.3** – Its slim, modern design will fit smoothly into today’s home decor without occupying too much space. (P8)  
+- **1.1** – The surface must be smooth with rounded edges to ensure safety, especially in homes with children or pets, minimizing the risk of injury or fabric damage. **(P10)**  
+- **1.2** – The device housing shall be made from durable, recyclable materials meeting RoHS environmental standards. **(P9)**  
+- **1.3** – Its slim, modern design will fit smoothly into today’s home decor without occupying too much space. **(P8)**  
 
 ### Software / Functionality
-- **2.1** – The device is to be compatible with a wide range of curtain rods and rails. (P10)  
-- **2.2** – The device is adjustable to fit different sizes of curtain rods and rails using an adaptor. (P9)  
-- **2.3** – The device can move heavy curtains without issues by using the remote and app. (P10)  
-- **2.4** – Connectivity shall include Bluetooth 5.0 and WiFi to ensure seamless control via smartphone app, voice assistants, and home automation hubs (Google, Alexa). (P10)  
-- **2.5** – The motor shall offer multiple operational modes: QuietDrift for near-silent movement, Normal for everyday use, and Boost to handle heavy curtains or longer distances. (P9)  
-- **2.6** – Adjustable speed control shall accommodate diverse curtain types and user preferences. (P8)  
-- **2.7** – The device shall actively monitor for obstructions and automatically stop and reverse if snagging is detected to protect both curtains and hardware. (P10)  
+- **2.1** – The device is to be compatible with a wide range of curtain rods and rails. **(P10)**  
+- **2.2** – The device is adjustable to fit different sizes of curtain rods and rails using an adaptor. **(P9)** 
+- **2.3** – The device can move heavy curtains without issues by using the remote and app. **(P10)**  
+- **2.4** – Connectivity shall include Bluetooth 5.0 and WiFi to ensure seamless control via smartphone app, voice assistants, and home automation hubs (Google, Alexa). **(P10)**  
+- **2.5** – The motor shall offer multiple operational modes: QuietDrift for near-silent movement, Normal for everyday use, and Boost to handle heavy curtains or longer distances. **(P9)**  
+- **2.6** – Adjustable speed control shall accommodate diverse curtain types and user preferences. **(P8)**  
+- **2.7** – The device shall actively monitor for obstructions and automatically stop and reverse if snagging is detected to protect both curtains and hardware. **(P10)**  
 
 ### Interactivity & User Experience
-- **3.1** – Voice control integration shall support Alexa, Google Assistant, and Siri for hands-free operation, improving accessibility. (P10)  
-- **3.2** – The user can operate this device remotely or through a free in-app purchase on a smartphone device. (P9)  
-- **3.3** – The device supports specific ways of operation that ensure minimal disturbances. (P8)  
-- **3.4** – The product shall provide real-time feedback through LED indicators and app notifications, confirming successful commands or alerting users to errors. (P9)  
+- **3.1** – Voice control integration shall support Alexa, Google Assistant, and Siri for hands-free operation, improving accessibility. **(P10)**  
+- **3.2** – The user can operate this device remotely or through a free in-app purchase on a smartphone device. **(P9)**  
+- **3.3** – The device supports specific ways of operation that ensure minimal disturbances. **(P8)**  
+- **3.4** – The product shall provide real-time feedback through LED indicators and app notifications, confirming successful commands or alerting users to errors. **(P9)**  
 
 ### Customization
-- **4.1** – The device will be offered in at least two colorways, including black and white. (P7)  
-- **4.2** – The device will offer a custom fit to the railing of the curtain. (P9)  
-- **4.3** – Adapters and additional accessories will be provided based on the most commonly used curtain rails. (P8)  
-- **4.4** – Users shall be able to set and save custom curtain positions (e.g., partial open, fully closed) for quick access. (P9)  
-- **4.5** – The product shall provide adjustable curtain opening and closing speeds to suit different fabric types and user preferences. (P8)  
-- **4.6** – The system shall allow users to create personalized schedules and routines via the app for automatic operation. (P9)  
+- **4.1** – The device will be offered in at least two colorways, including black and white. **(P7)**  
+- **4.2** – The device will offer a custom fit to the railing of the curtain. **(P9)**  
+- **4.3** – Adapters and additional accessories will be provided based on the most commonly used curtain rails. **(P8)**  
+- **4.4** – Users shall be able to set and save custom curtain positions (e.g., partial open, fully closed) for quick access. **(P9)**  
+- **4.5** – The product shall provide adjustable curtain opening and closing speeds to suit different fabric types and user preferences. **(P8)**  
+- **4.6** – The system shall allow users to create personalized schedules and routines via the app for automatic operation. **(P9)**  
 
 ### Manufacturing & Sustainability
-- **5.1** – The device will be durable, meaning the moving parts will be secured and reinforced using injection molding. (P8)  
-- **5.2** – The device is designed to operate quietly and efficiently using the injection molding manufacturing method. (P9)  
-- **5.3** – We will use recycled materials made from white ABS and PC plastic for the packaging to ensure safe transportation when shipping the product. (P6)  
-- **5.4** – The product shall be designed with modular components to simplify assembly, reduce manufacturing time, and facilitate easy repairs or upgrades. (P9)  
+- **5.1** – The device will be durable, meaning the moving parts will be secured and reinforced using injection molding. **(P8)**  
+- **5.2** – The device is designed to operate quietly and efficiently using the injection molding manufacturing method. **(P9)**  
+- **5.3** – We will use recycled materials made from white ABS and PC plastic for the packaging to ensure safe transportation when shipping the product. **(P6)**  
+- **5.4** – The product shall be designed with modular components to simplify assembly, reduce manufacturing time, and facilitate easy repairs or upgrades. **(P9)**  
 
 ### Safety
-- **6.1** – Overcurrent and overvoltage protection shall be implemented, limiting current to 1.5A and voltage to 5V, avoiding electrical hazards. (P10)  
-- **6.2** – The product shall include clear safety warnings and user instructions to minimize misuse risks. (P9)  
-- **6.3** – The device’s moving parts would be secured and reinforced using the injection molding method so the parts do not break while the device is in use. (P10)  
-- **6.4** – The surface must be smooth with rounded edges to ensure safety. (P8)  
+- **6.1** – Overcurrent and overvoltage protection shall be implemented, limiting current to 1.5A and voltage to 5V, avoiding electrical hazards. **(P10)** 
+- **6.2** – The product shall include clear safety warnings and user instructions to minimize misuse risks. **(P9)**  
+- **6.3** – The device’s moving parts would be secured and reinforced using the injection molding method so the parts do not break while the device is in use. **(P10)**  
+- **6.4** – The surface must be smooth with rounded edges to ensure safety. **(P8)**  
 
 ## Requirement Criteria Specification
 
