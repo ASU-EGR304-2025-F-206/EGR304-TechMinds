@@ -152,7 +152,7 @@ For each user need and product requirement, brainstorm 5 different product featu
 
 **Smart Safety-Focused Curtain**
 <!-- Image for Concept 1 -->
-![Concept 1 Sketch](images/Concept-1.jpg)
+![Concept 1 Sketch](images/Concept-1.jpeg)
 
 ---
 
@@ -173,7 +173,7 @@ For each user need and product requirement, brainstorm 5 different product featu
 
 **Convenience & Smart Automation**
 <!-- Image for Concept 2 -->
-![Concept 2 Sketch](images/Concept-2.jpg)
+![Concept 2 Sketch](images/Concept-2.jpeg)
 
 ---
 **Concept 3: Cost-efficient & Modular**
@@ -195,7 +195,7 @@ For each user need and product requirement, brainstorm 5 different product featu
 
 **Cost-efficient & Modular**
 <!-- Image for Concept 3 -->
-![Concept 3 Sketch](images/Concept-3.jpg)
+![Concept 3 Sketch](images/Concept-3.jpeg)
 
 ---
 
