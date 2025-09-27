@@ -165,11 +165,7 @@ For each user need and product requirement, brainstorm 5 different product featu
 | Software/Smart Features | Touch & Go Detection Mode | Medium   | Detects manual curtain interaction and responds automatically |
 | Software/Smart Features | Remote action mapping     | Low      | Physical remote buttons trigger custom actions             |
 
----
-
-**Convenience & Smart Automation**
-<!-- Image for Concept 2 -->
-![Concept 2 Sketch](images/Concept-2.jpeg)
+![Concept 2](images/Concept-2.jpeg)  <!-- Concept 2: Convenience & Smart Automation -->
 
 ---
 **Concept 3: Cost-efficient & Modular**
@@ -187,11 +183,7 @@ For each user need and product requirement, brainstorm 5 different product featu
 | Energy-efficient motor    | Long-life battery         | Medium   | Extends usage without frequent recharging               |
 | Energy-efficient motor    | Open-source software      | Low      | Eliminates licensing fees                                |
 
----
-
-**Cost-efficient & Modular**
-<!-- Image for Concept 3 -->
-![Concept 3 Sketch](images/Concept-3.jpeg)
+![Concept 3](images/Concept-3.jpeg)  <!-- Concept 3: Cost-efficient & Modular -->
 
 ---
 
