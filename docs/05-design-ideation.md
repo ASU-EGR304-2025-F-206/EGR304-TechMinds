@@ -148,11 +148,7 @@ For each user need and product requirement, brainstorm 5 different product featu
 | Durability               | UV-resistant material              | Medium   | Prevents sun damage and surface degradation           |
 | Durability               | Sealed electronics                 | Medium   | Moisture-proof to resist wear and tear               |
 
----
-
-**Smart Safety-Focused Curtain**
-<!-- Image for Concept 1 -->
-![Concept 1 Sketch](images/Concept-1.jpeg)
+![Concept 1](images/Concept-1.jpeg)  <!-- Concept 1: Smart Safety-Focused Curtain -->
 
 ---
 
