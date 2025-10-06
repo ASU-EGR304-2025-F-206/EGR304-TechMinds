@@ -52,4 +52,4 @@ The team confirmed that the proposed layout:
 This groundwork ensures the block diagram will clearly represent Mihir as the central hub, receiving analog signals from Zane and Adrian, while digital signals remain local.
 
 
-![Team 206 Block Diagram](images/Team-206 Block Diagram.jpg)
+![Team 206 Block Diagram](images/Team-206 Block Diagram - 1.jpg)
