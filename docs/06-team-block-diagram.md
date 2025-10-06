@@ -25,7 +25,7 @@ Handles potentiometer inputs and local digital I/O (button and LED).
 Potentiometer analog signals are routed to Mihir.  
 Digital outputs remain local.
 
-*"**Note:** This division ensures efficient connector usage: only necessary analog signals are shared, digital signals stay local, and GND is common across all boards, minimizing inter-board wiring."*
+> *"**Note:** This division ensures efficient connector usage: only necessary analog signals are shared, digital signals stay local, and GND is common across all boards, minimizing inter-board wiring."*
 
 ---
 
