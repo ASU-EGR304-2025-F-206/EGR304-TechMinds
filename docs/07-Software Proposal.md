@@ -2,56 +2,30 @@
 title: Software Proposal
 ---
 
-## Introduction
+## Software Proposal: Block Diagram, Process Diagram, and Message Structure
 
-**Bold Text**
-_Italic Text_
-**_Bold and Italic Text_**
+This page presents the system-level overview and control logic of our team’s software proposal for the **automated curtain control system**.  
+The diagrams included here illustrate the interaction between key subsystems — the **Hub Controller**, **Sensor Subsystem**, **Motor Control Subsystem**, and **User Input Logic** — and show how data and control messages flow between them during system operation.
 
-## Research Question
+The **block diagram** provides a high-level structural view of how the hardware and software components are interconnected.  
+The **process (flow) diagram** outlines the software’s logical flow from initialization through the main control loop, including sensor sampling, user input handling, state updates, and motor output control.
 
-* Bullet Point 1
-* Bullet Point 2
-* Bullet Point 3
+---
 
-## Images
+### 🧭 System Diagrams
 
-![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
-
-![dead bug circuit](Image01.jpg){style width:"350" height:"300;"}
-**Figure 2:** Early PCB working design
+**Embedded Block & Process Diagram (PNG):**  
+![Software Proposal Diagram](images/304SoftwareProposal.png)
 
 
-![showcase](ImageShowcase.png)
-**Figure 3:** Innovation Showcase Spring '25, where the products were a STEM-themed display that demonstrates a single scientific/engineering concept with the intended user of K-12 students interested in learning about science, technology, engineering, or math.
+---
 
+### 📂 Source Files
 
-## Results
+- **View the editable draw.io source:**  
+  [Open draw.io Diagram](https://drive.google.com/file/d/1kB1MB1A7WyH8kRUYDMvroCLTDriQc6d1/view?usp=sharing)
 
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
+- **Download the .drawio file from GitHub repository:**  
+  [Download from GitHub](https://github.com/YourTeamGitHubUsername/YourRepoName/blob/main/assets/diagrams/304_Software_Proposal.drawio)
 
-## Conclusions and Future Work
-
-## External Links
-
-[example link to idealab](https://idealab.asu.edu)
-
-
-## Results
-
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
-
-## Conclusions and Future Work
-
-## External Links
-
-[example link to idealab](https://idealab.asu.edu)
-
-
-## References
-
-
+--- 
