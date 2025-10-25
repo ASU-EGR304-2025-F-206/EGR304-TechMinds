@@ -1,90 +1,64 @@
 ---
-title: User Needs and Benchmarking
+title: Home
 tags:
-- tag1
-- tag2
+- EGR304
+- Team Report
 ---
 
-## Et poposcerat rursus ad magnus premit
+<center>
+<font size="8">TechMinds<br>
+<font size="5">Team 206<br>
+**Submission: September 15, 2025**<br>
+Fall 2025<br>
+<font size="4">Arizona State University<br>
+**EGR 304**<br>
+Professor Kevin Nichols<br>
+</center>
 
-Lorem markdownum gradus, qui largis, nec pater pleno: fatum. Adspexit cursus
-cur, aut in adhuc crimina **habebat**: pro.
+---
 
-- Et ducimus
-- Prosecta hinc nix vidi rettulit cum sitim
-- Has in tonitribus tenebrae Romane mirantum resupina
-- Figuras et dextram
+## VOC Benchmarking Report
 
-## Esse quoque sedem plena nunc iecur
+This page presents our benchmarking analysis of leading motorized curtain and blind systems.  
+Each table lists **Voice of the Customer (VOC) statements** and their **restated customer needs**.
 
-Possemque suos dumque. Deum recta rogantem, inquinat facta gigantas; ego nisi
-mea. Nec tamen quae gravem, potens, [cognoscendo
-scripta](http://vidit-lumine.io/sinusdeum). *Nihil ventis Aeneae* probat.
+---
 
-1. listum primo
+## SwitchBot Curtain 3 — $99.99  
+**Vendor:** [Amazon](https://www.amazon.com/)  
+**Description:** Retrofit motor that automates existing curtains. Easy installation, quiet operation, and smart home integration.
 
-    discusso el codex:
+### Positive Comments
+| Voice of the Customer | Restated Customer Need |
+| --- | --- |
+| "Absolutely silent…easy installation…moves heavy curtains" | Operate quietly; install easily; move heavy curtains |
+| "Remote added to app seamlessly…program buttons" | Integrate seamlessly with remote and app; program open/close easily |
+| "QuietDrift mode is so quiet…useful for bedtime" | Adjustable quiet operation modes; support bedtime routines |
+| "Comes with clips…videos on website assist" | Support multiple curtain panels; provide install support |
 
-        if (pimProgressiveMashup(recursive_upnp_barcraft, seo) == file.station_leaf(
-                optical + 1, compact_docking)) {
-            rt_programming_system(udpScraping, marketRegularMetal,
-                    threadingNuiRoom);
-            vlogVaporwarePage += 5 + xhtmlDiskReader;
-            access.kbps_footer.dialogZettabyte(3, cloud_midi_spoofing, ipad_macro);
-        }
-        if (maskProcessorKbps(programming, user, cache_web) >= file *
-                publishingDual) {
-            hibernate.flash_network -= 4;
-            bar = goodput_flash;
-            streaming = voip_flatbed - 1;
-        } else {
-            clipCd(jquery, 55 - -1, touchscreen);
-            plagiarism_command_e = cleanHardIcio;
-            recursion = checksum;
-        }
-        clock(roomCaptcha, 2);
+### Negative Comments
+| Voice of the Customer | Restated Customer Need |
+| --- | --- |
+| "Started creaking…broken plastic pieces" | Durable, robust internal components |
+| "Keeps falling off rail" | Stay securely on rail; consistent reliability |
+| "Not compatible…wheels too big" | Compatible with many rail types; adjustable adapters |
 
-2. listum secundum
+---
 
-    > warningum alertum
+## RYSE SmartCurtain — $149.99  
+**Vendor:** [Amazon](https://www.amazon.com/)  
+**Description:** Motorizes existing curtains with app control. Works with most setups, battery powered, easy install.
 
-3. listum adnauseum
+### Positive Comments
+| Voice of the Customer | Restated Customer Need |
+| --- | --- |
+| "Incredibly easy to install…adhesive strips…set open/close positions" | Quick installation; works on rods with joints; allow precise positions |
+| "Syncs with Google Home…easy setup…affordable" | Smart home integration; easy app setup; cost-effective |
+| "Feels like luxury…control from bed" | Convenient remote control; luxury experience; no remodeling |
 
-## Pondus ante Ialysios vultu exasperat loqui sanguine
-
-Iacere non, quis nimbis. Dumque tibi minora clamabat contigit vacant, sepulcro
-coniugis quae; mihi! Solent adeste faventibus, perque penates, currere in quater
-Odrysius ferro, vota, vero mittat crinibus, quae. Hanc mundi, ipse vultu voce
-sub quae heros forsitan imagine in tecum Cephalus? Formosissimus vela; vapore
-oris, aera, utendum ostendisse regnum Centaurorum elice.
-
-    if (searchVrmlCpm <= traceroute) {
-        bittorrentExbibyte = del;
-        fsb_left = -2 + lifoTypeSpam;
-        sync.bcc(errorAtm(66, boot, link), meta_personal_hdd, leak.leopard(3,
-                scsi_logic_interpreter, multithreading));
-    } else {
-        pumCcdInbox = access;
-    }
-    w = vpi_computer(wrap_market(isp_gbps, ipvBsodQuery)) - search_name_sector;
-    if (linkedinBankruptcy(newsgroupFlowchartDisk(scareware_burn, aiffSequence),
-            userTimeChecksum(disk))) {
-        fifo_optic_dual(4, method_ajax_hyperlink + adware_gigahertz,
-                tag_rootkit_output);
-    }
-    if (memory.fsb(client_template, typeface_memory_bridge) < newbie_socket_gif(
-            storageModemDrive, kilohertz_yottabyte_middleware)) {
-        dimm.dvd_character.hover(hibernate);
-        exif = unmountVirusRss * 5;
-    } else {
-        localhost_adapter += character_olap_white;
-        subnet(internal_dongle + card);
-    }
-    var hibernateAlert = formatCmsCompression(1 / and_tcp + 5);
-
-Miserande evanida amanti, succiduo, dare mihi quid amnis venit Rhadamanthus.
-Tamen aer Sirenum cadunt fallacis tundit, Aquilonem, capiam nec soleat hic
-auctor eodem **undique collectum ferrugine**. Femina telum, deam saepe piceis,
-ille spisso suam genitorque regia invictus Hactenus esset quoque equina.
-Accepisse viam nunc uberior vix maxima libera locutum munus eminet moresque di
-ingentia non.
+### Negative Comments
+| Voice of the Customer | Restated Customer Need |
+| --- | --- |
+| "No way to charge…can’t push long curtains…Bluetooth unstable…noisy" | Rechargeable battery; handle heavy curtains; stable Bluetooth; operate quietly |
+| "Batteries not rechargeable…can’t run routines without extra purchase" | Include rechargeable battery; support automation without add-ons |
+| "Can’t bypass brackets…very expensive" | W
