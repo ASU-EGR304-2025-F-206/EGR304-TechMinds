@@ -4,15 +4,13 @@ title: Software Proposal
 
 ## Software Proposal: Block Diagram, Process Diagram, and Message Structure
 
-This page presents the system-level overview and control logic of our team’s software proposal for the **automated curtain control system**.  
-The diagrams included here illustrate the interaction between key subsystems — the **Hub Controller**, **Sensor Subsystem**, **Motor Control Subsystem**, and **User Input Logic** — and show how data and control messages flow between them during system operation.
+This page shows the system overview and control logic for our team’s **automated curtain control system**. The diagrams explain how the main parts — the **Hub Controller**, **Sensor Subsystem**, **Motor Control Subsystem**, and **User Input Logic** — work together and exchange data during operation.
 
-The **block diagram** provides a high-level structural view of how the hardware and software components are interconnected.  
-The **process (flow) diagram** outlines the software’s logical flow from initialization through the main control loop, including sensor sampling, user input handling, state updates, and motor output control.
+The **block diagram** gives a general view of how the components are connected. The **process (flow) diagram** shows the step-by-step logic of the software, including setup, reading sensor data, checking user input, updating states, and controlling the motor.
 
 ---
 
-### 🧭 System Diagrams
+### System Diagrams
 
 **Embedded Block & Process Diagram (PNG):**  
 ![Software Proposal Diagram](images/304SoftwareProposal.png)
@@ -20,7 +18,7 @@ The **process (flow) diagram** outlines the software’s logical flow from initi
 
 ---
 
-### 📂 Source Files
+### Source Files
 
 - **View the editable draw.io source:**  
   [Open draw.io Diagram](https://drive.google.com/file/d/1kB1MB1A7WyH8kRUYDMvroCLTDriQc6d1/view?usp=sharing)
