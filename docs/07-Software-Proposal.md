@@ -26,6 +26,6 @@ The **process (flow) diagram** outlines the software’s logical flow from initi
   [Open draw.io Diagram](https://drive.google.com/file/d/1kB1MB1A7WyH8kRUYDMvroCLTDriQc6d1/view?usp=sharing)
 
 - **Download the .drawio file from GitHub repository:**  
-  [Download from GitHub](https://github.com/YourTeamGitHubUsername/YourRepoName/blob/main/assets/diagrams/304_Software_Proposal.drawio)
+  [Download from GitHub](https://github.com/ASU-EGR304-2025-F-206/EGR304-TechMinds/blob/main/docs/images/304SoftwareProposal.png)
 
 --- 
