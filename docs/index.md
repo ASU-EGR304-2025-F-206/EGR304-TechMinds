@@ -23,7 +23,10 @@ Professor Kevin Nichols<br>
 >
 > - **Team Organization:** Charter, mission, communication methods, and team roles  
 > - **Appendix:** Supporting documentation and additional planning details  
-> - **Datasheets:** Individual team member backgrounds and skill sets
+> - **Datasheets:** Individual team member backgrounds and skill 
+
+## Project Sections
+- [Software Proposal](07-Software-Proposal.md)
 
 
 ## Team Members Datasheet links
@@ -32,8 +35,7 @@ Professor Kevin Nichols<br>
 | ---------------------- | -----------------------|
 | Mihir Patel            | [Mihir-Patel-64.github.io](https://mihir-patel-64.github.io/mihirpatel-individual.github.io/) |
 | Adrian Perez           | [Adrian-XP.github.io](https://adrian-xp.github.io/) |
-| Drew Sattre            | [drewsattre.github.io](https://drewsattre.github.io/) |
-| Zane Brauer            | [zane047.github.io](https://zane047.github.io/) |
+| Zane Brauer            | [zane047.github.io](https://zane047.github.io/zane047_EGR304.github.io/) |
 
 
 > *Note: This homepage will be updated further as we prepare for the External Review.*
