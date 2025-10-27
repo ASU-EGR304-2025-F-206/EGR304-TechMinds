@@ -47,6 +47,7 @@ It ensures that our technical decisions stay focused on **improving everyday liv
 ## Communication & Collaboration
 
 Our team maintains open communication using the following tools:
+
 - **Microsoft Teams / Discord:** Real-time collaboration and design discussions  
 - **GitHub:** Version control and documentation updates  
 - **Google Drive:** File sharing and report drafts  
