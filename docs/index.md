@@ -35,7 +35,7 @@ Professor Kevin Nichols<br>
 | ---------------------- | -----------------------|
 | Mihir Patel            | [Mihir-Patel-64.github.io](https://mihir-patel-64.github.io/mihirpatel-individual.github.io/) |
 | Adrian Perez           | [Adrian-XP.github.io](https://adrian-xp.github.io/) |
-| Zane Brauer            | [zane047.github.io](https://zane047.github.io/) |
+| Zane Brauer            | [zane047.github.io](https://zane047.github.io/zane047_EGR304.github.io/) |
 
 
 > *Note: This homepage will be updated further as we prepare for the External Review.*
