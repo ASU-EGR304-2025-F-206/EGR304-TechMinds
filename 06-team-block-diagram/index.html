@@ -502,6 +502,17 @@
         
       
       
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Team Block Diagram
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <a href="./" class="md-nav__link md-nav__link--active">
         
   
@@ -511,6 +522,76 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#subsystem-roles" class="md-nav__link">
+    <span class="md-ellipsis">
+      Subsystem Roles
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Subsystem Roles">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#mihirs-subsystem-system-hub-actuation" class="md-nav__link">
+    <span class="md-ellipsis">
+      Mihir’s Subsystem — System Hub + Actuation
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#zanes-subsystem-environmental-sensing-signal-output" class="md-nav__link">
+    <span class="md-ellipsis">
+      Zane’s Subsystem — Environmental Sensing + Signal Output
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#adrians-subsystem-light-based-interaction-local-inputs" class="md-nav__link">
+    <span class="md-ellipsis">
+      Adrian’s Subsystem — Light-Based Interaction + Local Inputs
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#risk-assessment" class="md-nav__link">
+    <span class="md-ellipsis">
+      Risk Assessment
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -612,6 +693,65 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#subsystem-roles" class="md-nav__link">
+    <span class="md-ellipsis">
+      Subsystem Roles
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Subsystem Roles">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#mihirs-subsystem-system-hub-actuation" class="md-nav__link">
+    <span class="md-ellipsis">
+      Mihir’s Subsystem — System Hub + Actuation
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#zanes-subsystem-environmental-sensing-signal-output" class="md-nav__link">
+    <span class="md-ellipsis">
+      Zane’s Subsystem — Environmental Sensing + Signal Output
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#adrians-subsystem-light-based-interaction-local-inputs" class="md-nav__link">
+    <span class="md-ellipsis">
+      Adrian’s Subsystem — Light-Based Interaction + Local Inputs
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#risk-assessment" class="md-nav__link">
+    <span class="md-ellipsis">
+      Risk Assessment
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -636,44 +776,62 @@
 <h1 id="intro-overview">Intro / Overview</h1>
 <p>The block diagram shows the system for our automatic curtain raiser designed by TechMinds. The diagram illustrates how each team member’s system interacts through a standardized 8-pin connector, giving a seamless connection and functionality between boards. Each team member was responsible for an individual subsystem based on the Microchip PIC18F57Q43 Curiosity Nano. The design follows a hub-and-spoke connection, where the lines are shared through the defined digital and analog channels.</p>
 <hr>
-<h1 id="dividing-functionality-across-boards">Dividing functionality across boards:</h1>
-<h2 id="mihirs-board">Mihir’s Board</h2>
-<p>Acts as the central hub for sensor processing and motor/LED control.<br>
-Reads analog signals from Zane’s DAC and Adrian’s potentiometers via connector pins 6–7.<br>
-Controls outputs such as the H-bridge and LED locally.</p>
-<h2 id="zanes-board">Zane’s board</h2>
-<p>Focused on sensing and signal generation.<br>
-Temperature sensor input is read locally.<br>
-DAC1 output is available to Mihir.<br>
-Digital I/O pins are left unconnected for now.</p>
-<h2 id="adrians-board">Adrian’s Board</h2>
-<p>Handles potentiometer inputs and local digital I/O (button and LED).<br>
-Potentiometer analog signals are routed to Mihir.<br>
-Digital outputs remain local.</p>
+<h2 id="subsystem-roles">Subsystem Roles</h2>
+<h3 id="mihirs-subsystem-system-hub-actuation">Mihir’s Subsystem — System Hub + Actuation</h3>
+<ul>
+<li>Central control and decision-making unit</li>
+<li>Receives analog input signals from other subsystems</li>
+<li>Drives the motor using an H-bridge</li>
+<li>Controls a status indicator LED</li>
+<li>Includes a button and local sensing for standalone operation</li>
+</ul>
+<h3 id="zanes-subsystem-environmental-sensing-signal-output">Zane’s Subsystem — Environmental Sensing + Signal Output</h3>
+<ul>
+<li>Interfaces with a temperature sensor and amplification circuit</li>
+<li>Processes the measured signal for use by Mihir’s subsystem</li>
+<li>Provides output to shared analog connections</li>
+<li>Includes a button and LED for isolated testing</li>
+</ul>
+<h3 id="adrians-subsystem-light-based-interaction-local-inputs">Adrian’s Subsystem — Light-Based Interaction + Local Inputs</h3>
+<ul>
+<li>Measures light levels using a photoresistor and op-amp</li>
+<li>Sends processed light-level signal to Mihir’s subsystem</li>
+<li>Includes a button and LED for independent functionality</li>
+</ul>
 <blockquote>
 <p><em>"</em><em>Note:</em><em> This division ensures efficient connector usage: only necessary analog signals are shared, digital signals stay local, and GND is common across all boards, minimizing inter-board wiring."</em></p>
 </blockquote>
 <hr>
-<h1 id="risk-assessment-and-de-risking">Risk Assessment and De-Risking</h1>
-<h3 id="potential-risks">Potential Risks:</h3>
-<ul>
-<li>Losing Zane - Mihir loses access to the DAC signal  </li>
-<li>Losing Mihir - system loses central hub and motor/LED control  </li>
-<li>Losing Adrian - Mihir loses potentiometer inputs  </li>
-</ul>
-<h3 id="de-risk-strategies">De-risk Strategies:</h3>
-<ul>
-<li>Allocate extra ADC inputs on Mihir to handle signals if a teammate’s board becomes unavailable.  </li>
-<li>Group similar analog functions on consistent connector pins to facilitate easier rerouting.  </li>
-<li>Keep digital outputs local to minimize dependencies, allowing boards to operate independently if needed.  </li>
-</ul>
+<h2 id="risk-assessment">Risk Assessment</h2>
+<table>
+<thead>
+<tr>
+<th>Potential Issue</th>
+<th>Impact on System</th>
+<th>Mitigation Strategy</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Loss of Zane’s subsystem</td>
+<td>Environmental sensing disabled</td>
+<td>Mihir uses fallback controls</td>
+</tr>
+<tr>
+<td>Loss of Adrian’s subsystem</td>
+<td>Light-based automation unavailable</td>
+<td>Curtain operates using other input methods</td>
+</tr>
+<tr>
+<td>Loss of Mihir’s subsystem</td>
+<td>Motor control lost</td>
+<td>Other boards maintain limited local function</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <h1 id="conclusion">Conclusion</h1>
-<p>The team confirmed that the proposed layout:<br>
-- Balances functionality<br>
-- Meets project requirements<br>
-- Minimizes risk  </p>
-<p>This groundwork ensures the block diagram will clearly represent Mihir as the central hub, receiving analog signals from Zane and Adrian, while digital signals remain local.</p>
+<p>This design defines Mihir’s subsystem as the main processing and actuation hub, while Zane and Adrian’s subsystems provide modular environmental inputs. The structure supports simplified testing, modular architecture, and resilient operation when subsystems become unavailable.</p>
 <p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../images/206block.png" data-desc-position="bottom"><img alt="Team 206 Block Diagram" src="../images/206block.png"></a></p>
 
 
