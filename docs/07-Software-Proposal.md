@@ -13,7 +13,7 @@ The **block diagram** gives a general view of how the components are connected. 
 ### System Diagrams
 
 **Embedded Block & Process Diagram (PNG):**  
-![Software Proposal Diagram](images/304SoftwareProposal.drawio.png)
+![Software Proposal Diagram](images/304_SoftwareProposal.png)
 
 
 ---
