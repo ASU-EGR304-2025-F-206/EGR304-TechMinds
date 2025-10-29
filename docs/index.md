@@ -7,7 +7,7 @@ tags:
 <center>
 <font size="8">TechMinds<br>
 <font size="5">Team 206<br>
-**Submission: month, DD, YYYY**<br>
+**Submission: October, 31st, 2025**<br>
 Fall 2025<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
