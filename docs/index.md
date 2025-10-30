@@ -48,6 +48,3 @@ You can navigate to the main sections of our report using the top menu or the li
 | Mihir Patel            | [Mihir-Patel-64.github.io](https://mihir-patel-64.github.io/mihirpatel-individual.github.io/) |
 | Adrian Perez           | [Adrian-XP.github.io](https://adrian-xp.github.io/) |
 | Zane Brauer            | [zane047.github.io](https://zane047.github.io/zane047_EGR304.github.io/) |
-
-
-**TechMinds (Team 206)** – Arizona State University 
