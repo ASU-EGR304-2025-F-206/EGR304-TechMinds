@@ -7,49 +7,43 @@ The block diagram shows the system for our automatic curtain raiser designed by 
 
 ---
 
-# Dividing functionality across boards:
+## Subsystem Roles
 
-## Mihir’s Board
-Acts as the central hub for sensor processing and motor/LED control.  
-Reads analog signals from Zane’s DAC and Adrian’s potentiometers via connector pins 6–7.  
-Controls outputs such as the H-bridge and LED locally.
+### Mihir’s Subsystem — System Hub + Actuation
+- Central control and decision-making unit
+- Receives analog input signals from other subsystems
+- Drives the motor using an H-bridge
+- Controls a status indicator LED
+- Includes a button and local sensing for standalone operation
 
-## Zane’s board
-Focused on sensing and signal generation.  
-Temperature sensor input is read locally.  
-DAC1 output is available to Mihir.  
-Digital I/O pins are left unconnected for now.
+### Zane’s Subsystem — Environmental Sensing + Signal Output
+- Interfaces with a temperature sensor and amplification circuit
+- Processes the measured signal for use by Mihir’s subsystem
+- Provides output to shared analog connections
+- Includes a button and LED for isolated testing
 
-## Adrian’s Board
-Handles potentiometer inputs and local digital I/O (button and LED).  
-Potentiometer analog signals are routed to Mihir.  
-Digital outputs remain local.
+### Adrian’s Subsystem — Light-Based Interaction + Local Inputs
+- Measures light levels using a photoresistor and op-amp
+- Sends processed light-level signal to Mihir’s subsystem
+- Includes a button and LED for independent functionality
 
 > *"**Note:** This division ensures efficient connector usage: only necessary analog signals are shared, digital signals stay local, and GND is common across all boards, minimizing inter-board wiring."*
 
 ---
 
-# Risk Assessment and De-Risking
+## Risk Assessment
 
-### Potential Risks:
-- Losing Zane - Mihir loses access to the DAC signal  
-- Losing Mihir - system loses central hub and motor/LED control  
-- Losing Adrian - Mihir loses potentiometer inputs  
-
-### De-risk Strategies:
-- Allocate extra ADC inputs on Mihir to handle signals if a teammate’s board becomes unavailable.  
-- Group similar analog functions on consistent connector pins to facilitate easier rerouting.  
-- Keep digital outputs local to minimize dependencies, allowing boards to operate independently if needed.  
+| Potential Issue | Impact on System | Mitigation Strategy |
+|----------------|-----------------|-------------------|
+| Loss of Zane’s subsystem | Environmental sensing disabled | Mihir uses fallback controls |
+| Loss of Adrian’s subsystem | Light-based automation unavailable | Curtain operates using other input methods |
+| Loss of Mihir’s subsystem | Motor control lost | Other boards maintain limited local function |
 
 ---
 
 # Conclusion
-The team confirmed that the proposed layout:  
-- Balances functionality  
-- Meets project requirements  
-- Minimizes risk  
 
-This groundwork ensures the block diagram will clearly represent Mihir as the central hub, receiving analog signals from Zane and Adrian, while digital signals remain local.
+This design defines Mihir’s subsystem as the main processing and actuation hub, while Zane and Adrian’s subsystems provide modular environmental inputs. The structure supports simplified testing, modular architecture, and resilient operation when subsystems become unavailable.
 
 
-![Team 206 Block Diagram](images/Block Diagram - Team 206.jpg)
+![Team 206 Block Diagram](images/206block.png)
