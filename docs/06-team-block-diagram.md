@@ -46,4 +46,12 @@ The block diagram shows the system for our automatic curtain raiser designed by 
 This design defines Mihir’s subsystem as the main processing and actuation hub, while Zane and Adrian’s subsystems provide modular environmental inputs. The structure supports simplified testing, modular architecture, and resilient operation when subsystems become unavailable.
 
 
-![Team 206 Block Diagram](images/206block.png)
+![Team 206 Block Diagram](images/TeamBlockDiagram.drawio.png)
+
+### Source Files
+
+- **View the editable draw.io source:**  
+  [Open draw.io Diagram](https://drive.google.com/file/d/1H6aJwPv8wPsPnQuJsYAvrDz7MDm43k3i/view?usp=sharing)
+
+- **Download the .drawio file from GitHub repository:**  
+  [Download from GitHub](https://github.com/Mihir-Patel-64/mihirpatel-individual.github.io/blob/main/docs/01-Block-Diagram/Block_Diagram_MP.jpg)
