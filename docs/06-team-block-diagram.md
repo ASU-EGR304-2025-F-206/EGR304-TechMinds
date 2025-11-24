@@ -46,7 +46,7 @@ The block diagram shows the system for our automatic curtain raiser designed by 
 This design defines Mihir’s subsystem as the main processing and actuation hub, while Zane and Adrian’s subsystems provide modular environmental inputs. The structure supports simplified testing, modular architecture, and resilient operation when subsystems become unavailable.
 
 
-![Team 206 Block Diagram](images/Team206_Block_Diagram.drawio.png)
+![Team 206 Block Diagram](images/Team_206_Block_Diagram.drawio.png)
 
 ### Source Files
 
