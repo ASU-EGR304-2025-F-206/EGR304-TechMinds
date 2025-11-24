@@ -54,4 +54,4 @@ This design defines Mihir’s subsystem as the main processing and actuation hub
   [Open draw.io Diagram](https://drive.google.com/file/d/1H6aJwPv8wPsPnQuJsYAvrDz7MDm43k3i/view?usp=sharing)
 
 - **Download the .drawio file from GitHub repository:**  
-  [Download from GitHub](https://github.com/ASU-EGR304-2025-F-206/EGR304-TechMinds/blob/main/docs/images/TeamBlockDiagram.drawio.png)
+  [Download from GitHub](https://github.com/ASU-EGR304-2025-F-206/EGR304-TechMinds/blob/main/docs/images/Teamblockdiagram.png)
