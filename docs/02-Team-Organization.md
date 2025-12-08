@@ -27,7 +27,7 @@ Before defining our design, we established a guiding statement to ensure our pro
 ---
 
 > **Product Mission Statement:**  
-> *“Create a modular, low-cost curtain control subsystem that uses motion and ambient light sensing to automatically open and close curtains. The system should improve comfort, privacy, and energy efficiency in everyday homes and apartments, be easy to install, and interface with the class 8-wire ribbon connector and PIC18F57Q43 microcontroller.”*
+> *“Improve comfort, privacy, and energy efficiency in everyday homes and apartments by enabling curtains to respond automatically to motion and changing light conditions, using a system that’s easy to install and compatible with the project’s required interface standards.”*
 
 This statement defines our **“why”** — the purpose driving our design.  
 It ensures that our technical decisions stay focused on improving everyday living through practical, user-centered automation.
