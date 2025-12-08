@@ -48,6 +48,39 @@ This design defines Mihir’s subsystem as the main processing and actuation hub
 
 ![Team 206 Block Diagram](images/Team_206_Block_Diagram.drawio.png)
 
+---
+
+### Zane's Connector (Temperature Sensor Circuit Connector)
+
+| Pin | From        | To          | Type            | Description                              |
+|-----|-------------|-------------|-----------------|------------------------------------------|
+| 1   | Mihir (RC4) | Zane (RB1)  | 0–5 V Digital   | Digital control / status signal          |
+| 2   | Zane (RB2)  | Mihir (RD0) | 0–5 V Digital   | Digital control / status signal          |
+| 3   | Mihir (RD5) | Zane (RD5)  | 0–5 V Digital   | Flex pin (general‑purpose digital I/O)   |
+| 4   | Mihir (RD6) | Zane (RD6)  | 0–5 V Digital   | Flex pin (general‑purpose digital I/O)   |
+| 5   | Mihir (RD7) | Zane (RD7)  | 0–5 V Digital   | Flex pin (general‑purpose digital I/O)   |
+| 6   | Mihir (RB7) | Zane (RA7)  | 0–5 V Analog    | Motion sensor output                     |
+| 7   | Zane (RA2)  | Mihir (RA2) | 0–5 V Analog    | Temperature sensor output                |
+| 8   | Ground      | Ground      | Ground          | Common ground reference                  |
+
+---
+
+### Adrian's Connector (Photoresistor Sensor Circuit Connector)
+
+| Pin | From        | To          | Type            | Description                              |
+|-----|-------------|-------------|-----------------|------------------------------------------|
+| 1   | Mihir (RD3) | Zane (RB2)  | 0–5 V Digital   | Digital control / status signal          |
+| 2   | Zane (RF0)  | Mihir (RD2) | 0–5 V Digital   | Digital control / status signal          |
+| 3   | Mihir (RD5) | Zane (RD5)  | 0–5 V Digital   | Flex pin (general‑purpose digital I/O)   |
+| 4   | Mihir (RD6) | Zane (RD6)  | 0–5 V Digital   | Flex pin (general‑purpose digital I/O)   |
+| 5   | Mihir (RD7) | Zane (RD7)  | 0–5 V Digital   | Flex pin (general‑purpose digital I/O)   |
+| 6   | Mihir (RB7) | Zane (RB7)  | 0–5 V Analog    | Motion sensor output                     |
+| 7   | Zane (RA7)  | Mihir (RA1) | 0–5 V Analog    | Photoresistor sensor output              |
+| 8   | Ground      | Ground      | Ground          | Common ground reference                  |
+
+
+---
+
 ### Source Files
 
 - **View the editable draw.io source:**  
