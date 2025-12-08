@@ -907,6 +907,149 @@
 <h1 id="conclusion">Conclusion</h1>
 <p>This design defines Mihir’s subsystem as the main processing and actuation hub, while Zane and Adrian’s subsystems provide modular environmental inputs. The structure supports simplified testing, modular architecture, and resilient operation when subsystems become unavailable.</p>
 <p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../images/Team_206_Block_Diagram.drawio.png" data-desc-position="bottom"><img alt="Team 206 Block Diagram" src="../images/Team_206_Block_Diagram.drawio.png"></a></p>
+<hr>
+<h3 id="zanes-connector-temperature-sensor-circuit-connector">Zane's Connector (Temperature Sensor Circuit Connector)</h3>
+<table>
+<thead>
+<tr>
+<th>Pin</th>
+<th>From</th>
+<th>To</th>
+<th>Type</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Mihir (RC4)</td>
+<td>Zane (RB1)</td>
+<td>0–5 V Digital</td>
+<td>Digital control / status signal</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Zane (RB2)</td>
+<td>Mihir (RD0)</td>
+<td>0–5 V Digital</td>
+<td>Digital control / status signal</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Mihir (RD5)</td>
+<td>Zane (RD5)</td>
+<td>0–5 V Digital</td>
+<td>Flex pin (general‑purpose digital I/O)</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Mihir (RD6)</td>
+<td>Zane (RD6)</td>
+<td>0–5 V Digital</td>
+<td>Flex pin (general‑purpose digital I/O)</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Mihir (RD7)</td>
+<td>Zane (RD7)</td>
+<td>0–5 V Digital</td>
+<td>Flex pin (general‑purpose digital I/O)</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Mihir (RB7)</td>
+<td>Zane (RA7)</td>
+<td>0–5 V Analog</td>
+<td>Motion sensor output</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Zane (RA2)</td>
+<td>Mihir (RA2)</td>
+<td>0–5 V Analog</td>
+<td>Temperature sensor output</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Ground</td>
+<td>Ground</td>
+<td>Ground</td>
+<td>Common ground reference</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3 id="adrians-connector-photoresistor-sensor-circuit-connector">Adrian's Connector (Photoresistor Sensor Circuit Connector)</h3>
+<table>
+<thead>
+<tr>
+<th>Pin</th>
+<th>From</th>
+<th>To</th>
+<th>Type</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Mihir (RD3)</td>
+<td>Zane (RB2)</td>
+<td>0–5 V Digital</td>
+<td>Digital control / status signal</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Zane (RF0)</td>
+<td>Mihir (RD2)</td>
+<td>0–5 V Digital</td>
+<td>Digital control / status signal</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Mihir (RD5)</td>
+<td>Zane (RD5)</td>
+<td>0–5 V Digital</td>
+<td>Flex pin (general‑purpose digital I/O)</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Mihir (RD6)</td>
+<td>Zane (RD6)</td>
+<td>0–5 V Digital</td>
+<td>Flex pin (general‑purpose digital I/O)</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Mihir (RD7)</td>
+<td>Zane (RD7)</td>
+<td>0–5 V Digital</td>
+<td>Flex pin (general‑purpose digital I/O)</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Mihir (RB7)</td>
+<td>Zane (RB7)</td>
+<td>0–5 V Analog</td>
+<td>Motion sensor output</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Zane (RA7)</td>
+<td>Mihir (RA1)</td>
+<td>0–5 V Analog</td>
+<td>Photoresistor sensor output</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Ground</td>
+<td>Ground</td>
+<td>Ground</td>
+<td>Common ground reference</td>
+</tr>
+</tbody>
+</table>
+<hr>
 <h3 id="source-files">Source Files</h3>
 <ul>
 <li>
