@@ -9,7 +9,7 @@
       
       
       
-        <link rel="canonical" href="https://embedded-systems-design.github.io/EGR304TeamTemplate/07-Software-Proposal/">
+        <link rel="canonical" href="https://embedded-systems-design.github.io/EGR304TeamTemplate/07-Software-Design/">
       
       
         <link rel="prev" href="../06-team-block-diagram/">
@@ -26,7 +26,7 @@
 
     
       
-        <title>Software Proposal - EGR304 Team Report Template</title>
+        <title>Software Design - EGR304 Team Report Template</title>
       
     
     
@@ -90,7 +90,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#software-proposal-block-diagram-process-diagram-and-message-structure" class="md-skip">
+        <a href="#software-design-block-diagram-process-diagram-and-message-structure" class="md-skip">
           Skip to content
         </a>
       
@@ -125,7 +125,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Software Proposal
+              Software Design
             
           </span>
         </div>
@@ -309,7 +309,7 @@
   
     
   
-  Software Proposal
+  Software Design
 
       </a>
     </li>
@@ -524,7 +524,7 @@
           
   
   <span class="md-ellipsis">
-    Software Proposal
+    Software Design
   </span>
   
 
@@ -535,7 +535,7 @@
         
   
   <span class="md-ellipsis">
-    Software Proposal
+    Software Design
   </span>
   
 
@@ -555,13 +555,13 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#software-proposal-block-diagram-process-diagram-and-message-structure" class="md-nav__link">
+  <a href="#software-design-block-diagram-process-diagram-and-message-structure" class="md-nav__link">
     <span class="md-ellipsis">
-      Software Proposal: Block Diagram, Process Diagram, and Message Structure
+      Software Design: Block Diagram, Process Diagram, and Message Structure
     </span>
   </a>
   
-    <nav class="md-nav" aria-label="Software Proposal: Block Diagram, Process Diagram, and Message Structure">
+    <nav class="md-nav" aria-label="Software Design: Block Diagram, Process Diagram, and Message Structure">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
@@ -685,13 +685,13 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#software-proposal-block-diagram-process-diagram-and-message-structure" class="md-nav__link">
+  <a href="#software-design-block-diagram-process-diagram-and-message-structure" class="md-nav__link">
     <span class="md-ellipsis">
-      Software Proposal: Block Diagram, Process Diagram, and Message Structure
+      Software Design: Block Diagram, Process Diagram, and Message Structure
     </span>
   </a>
   
-    <nav class="md-nav" aria-label="Software Proposal: Block Diagram, Process Diagram, and Message Structure">
+    <nav class="md-nav" aria-label="Software Design: Block Diagram, Process Diagram, and Message Structure">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
@@ -741,7 +741,7 @@
                   
 
   
-    <a href="https://github.com/embedded-systems-design/EGR304TeamTemplate/edit/main/docs/07-Software-Proposal.md" title="Edit this page" class="md-content__button md-icon">
+    <a href="https://github.com/embedded-systems-design/EGR304TeamTemplate/edit/main/docs/07-Software-Design.md" title="Edit this page" class="md-content__button md-icon">
       
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 20H6V4h7v5h5v3.1l2-2V8l-6-6H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h4v-2m10.2-7c.1 0 .3.1.4.2l1.3 1.3c.2.2.2.6 0 .8l-1 1-2.1-2.1 1-1c.1-.1.2-.2.4-.2m0 3.9L14.1 23H12v-2.1l6.1-6.1 2.1 2.1Z"></path></svg>
     </a>
@@ -749,11 +749,11 @@
   
 
 
-  <h1>Software Proposal</h1>
+  <h1>Software Design</h1>
 
-<h2 id="software-proposal-block-diagram-process-diagram-and-message-structure">Software Proposal: Block Diagram, Process Diagram, and Message Structure</h2>
-<p>This page shows the system overview and control logic for our team’s <strong>automated curtain control system</strong>. The diagrams explain how the main parts — the <strong>Hub Controller</strong>, <strong>Sensor Subsystem</strong>, <strong>Motor Control Subsystem</strong>, and <strong>User Input Logic</strong> — work together and exchange data during operation.</p>
-<p>The <strong>block diagram</strong> gives a general view of how the components are connected. The <strong>process (flow) diagram</strong> shows the step-by-step logic of the software, including setup, reading sensor data, checking user input, updating states, and controlling the motor.</p>
+<h2 id="software-design-block-diagram-process-diagram-and-message-structure">Software Design: Block Diagram, Process Diagram, and Message Structure</h2>
+<p>This page shows the system overview and control logic for our team’s <strong>automated curtain control system</strong>. The diagrams illustrate how the main components — the <strong>Hub Controller</strong>, <strong>Sensor Subsystem</strong>, <strong>Motor Control Subsystem</strong>, and <strong>User Input Logic</strong> — interact and exchange data during operation.</p>
+<p>The <strong>block diagram</strong> provides a general overview of how the components are interconnected. The <strong>process (flow) diagram</strong> shows the step-by-step logic of the software, including setup, reading sensor data, checking user input, updating states, and controlling the motor.</p>
 <hr>
 <h3 id="system-diagrams">System Diagrams</h3>
 <p><strong>Embedded Block &amp; Process Diagram (PNG):</strong><br>
@@ -772,7 +772,7 @@
 </ul>
 <hr>
 <h3 id="decision-making-product-alignment">Decision-Making &amp; Product Alignment</h3>
-<p>Our team structured the software architecture to balance modularity, robustness, and real-time response to environmental and user inputs.<br>
+<p>Our team structured the software architecture to strike a balance between modularity, robustness, and real-time responsiveness to environmental and user inputs.<br>
 - The Hub Controller (Mihir’s board) manages decision-making and communication, ensuring synchronized operation between the motor and sensors.<br>
 - Zane’s subsystem provides environmental sensing data (temperature) using analog inputs, while Adrian’s subsystem adds light-based feedback.<br>
 - Each subsystem is designed to operate locally if disconnected, aligning with our risk mitigation strategy.</p>
