@@ -1,12 +1,12 @@
 ---
-title: Software Proposal
+title: Software Design
 ---
 
-## Software Proposal: Block Diagram, Process Diagram, and Message Structure
+## Software Design: Block Diagram, Process Diagram, and Message Structure
 
-This page shows the system overview and control logic for our team’s **automated curtain control system**. The diagrams explain how the main parts — the **Hub Controller**, **Sensor Subsystem**, **Motor Control Subsystem**, and **User Input Logic** — work together and exchange data during operation.
+This page shows the system overview and control logic for our team’s **automated curtain control system**. The diagrams illustrate how the main components — the **Hub Controller**, **Sensor Subsystem**, **Motor Control Subsystem**, and **User Input Logic** — interact and exchange data during operation.
 
-The **block diagram** gives a general view of how the components are connected. The **process (flow) diagram** shows the step-by-step logic of the software, including setup, reading sensor data, checking user input, updating states, and controlling the motor.
+The **block diagram** provides a general overview of how the components are interconnected. The **process (flow) diagram** shows the step-by-step logic of the software, including setup, reading sensor data, checking user input, updating states, and controlling the motor.
 
 ---
 
@@ -30,7 +30,7 @@ The **block diagram** gives a general view of how the components are connected. 
 
 ### Decision-Making & Product Alignment
 
-Our team structured the software architecture to balance modularity, robustness, and real-time response to environmental and user inputs.  
+Our team structured the software architecture to strike a balance between modularity, robustness, and real-time responsiveness to environmental and user inputs.  
 - The Hub Controller (Mihir’s board) manages decision-making and communication, ensuring synchronized operation between the motor and sensors.  
 - Zane’s subsystem provides environmental sensing data (temperature) using analog inputs, while Adrian’s subsystem adds light-based feedback.  
 - Each subsystem is designed to operate locally if disconnected, aligning with our risk mitigation strategy.
