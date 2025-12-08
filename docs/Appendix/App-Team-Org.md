@@ -25,7 +25,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 |Mihir Patel |  Text Message | Slack | Email |
 |Zane Brauer |  Text Message | Email | Discord |
 |Adrian Perez |  Text Message | Discord | Email |
-|Drew Sattre |  Text Message | Email | Discord |
+
 
 ### Main Method for Group Communication
 
@@ -43,20 +43,20 @@ _**Appendix Table 2**: Weekly Schedule_
 
 | Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
-| 8:00 AM | D | - | - | - | - | Z,A,D | Z,A,D |
-| 9:00 AM | Z,D | Z | - | Z | - | M,Z,A,D | Z,A,D |
-| 10:00 AM | Z,D | Z | - | Z | - | M,Z,A,D | Z,A,D |
-| 11:00 AM | Z,D | Z | M | Z | M | M,Z,A,D | Z,A,D |
-| 12:00 PM | Z,D | M,Z | - | M,Z | A,D | M,Z,A,D | Z,A,D |
-| 1:00 PM | D | M | Z | M | Z,A,D | M,Z,A,D | Z,A,D |
-| 2:00 PM | A,D | - | Z | - | Z,A,D | M,Z,A,D | Z,A,D |
-| 3:00 PM | A,D | - | Z,A | - | Z,A,D | M,Z,A,D | Z,A,D |
-| 4:00 PM | A,D | A | M,A | A | M,A,D | M,Z,A,D | Z,A,D |
-| 5:00 PM | A,D | A,D | M,A | A,D | M,A,D | M,Z,A,D | Z,A,D |
-| 6:00 PM | A,D | A,D | M,A | A,D | M,A,D | M,Z,A,D | Z,A,D |
-| 7:00 PM | D | A,D | M,Z,A | A,D | M,A,Z,D | Z,A,D | Z,A,D |
-| 8:00 PM | D | A,D | Z,A | A,D | Z,A,D | Z,A,D | Z,A,D |
-| 9:00 PM | D | - | Z | - | Z | Z,A,D | Z,A,D |
+| 8:00 AM | - | - | - | - | - | Z,A | Z,A |
+| 9:00 AM | Z | Z | - | Z | - | M,Z,A | Z,A |
+| 10:00 AM | Z | Z | - | Z | - | M,Z,A | Z,A |
+| 11:00 AM | Z | Z | M | Z | M | M,Z,A | Z,A |
+| 12:00 PM | Z | M,Z | - | M,Z | A | M,Z,A | Z,A |
+| 1:00 PM | - | M | Z | M | Z,A | M,Z,A | Z,A |
+| 2:00 PM | A | - | Z | - | Z,A | M,Z,A | Z,A |
+| 3:00 PM | A | - | Z,A | - | Z,A | M,Z,A | Z,A |
+| 4:00 PM | A | A | M,A | A | M,A | M,Z,A | Z,A |
+| 5:00 PM | A | A | M,A | A | M,A | M,Z,A | Z,A |
+| 6:00 PM | A | A | M,A | A | M,A | M,Z,A | Z,A |
+| 7:00 PM | - | A | M,Z,A | A | M,A,Z | Z,A | Z,A |
+| 8:00 PM | - | A | Z,A | A | Z,A | Z,A | Z,A |
+| 9:00 PM | - | - | Z | - | Z | Z,A | Z,A |
 
 _**Table Legend for Appendix Table 2**_
 
@@ -65,7 +65,6 @@ _**Table Legend for Appendix Table 2**_
 | Adrian Perez | A |
 | Mihir Patel | M |
 | Zane Brauer | Z |
-| Drew Sattre | D |
 
 
 ## Meeting Coordination
@@ -82,13 +81,13 @@ _**Appendix Table 2**: Project Roles and Duties_
 | **Role**          | **Duties**                                                                                                                                | **Member**           |
 | :---------------- | :---------------------------------------------------------------------------------------------------------------------------------------- | :---------------- | 
 | Meeting leader    | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting                                        | Mihir Patel  |
-| Meeting recorder  | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          | Drew Sattre  |
+| Meeting recorder  | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          | Adrian Perez  |
 | Assignment leader | Coordinates the team's work on a given assignment to Canvas before the due date                                                           | Adrian Perez  |
 | Project monitor   | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status | Zane Brauer  |
 
 ## Process for Roles
 
-1. Roles rotates every **2 weeks** to give each member experience. 
+1. Roles rotate every **2 weeks** to give each member experience. 
 2. Assignments made during weekly meetings by consensus.
 3. Team members support one another to ensure role responsibilities are met.
 4. Technical responsibilities (e.g., sensors, actuators, PCB design tasks) assigned based on strengths and interests, but cross-training encouraged.
@@ -97,7 +96,7 @@ _**Appendix Table 2**: Project Roles and Duties_
 
 1. Assignments must be finished **48 hours** before deadlines for review.
 2. Each member must "sign off" on work before submission. 
-3. Feedback from design reviews shared with entire team and acted upon in next cycle
+3. Feedback from design reviews shared with the entire team and acted upon in the next cycle
 4. Missed Work Policy: 
 **First occurrence** - private reminder,
 **Second occurrence** - team discussion + redistribution of tasks,
@@ -105,10 +104,10 @@ _**Appendix Table 2**: Project Roles and Duties_
 
 ## Conflict Recognition & Resolution
 
-1. Disagreements acknoledged openly in meetings.
+1. Disagreements acknowledged openly in meetings.
 2. Conflicts resolved by structured discussion: majority vote if no consensus.
 3. Avoid overloading members with multiple roles to prevent conflicts of interest.
-4. Escalation to instructor only if conflict cannot be resolved internally. 
+4. Escalation to the instructor only if the conflict cannot be resolved internally. 
 
 
 ## Signatures
