@@ -625,6 +625,15 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#version-20" class="md-nav__link">
+    <span class="md-ellipsis">
+      Version 2.0
+    </span>
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -795,6 +804,15 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#version-20" class="md-nav__link">
+    <span class="md-ellipsis">
+      Version 2.0
+    </span>
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -826,12 +844,12 @@
   <h1>Software Design</h1>
 
 <h2 id="software-design-block-diagram-process-diagram-and-message-structure">Software Design: Block Diagram, Process Diagram, and Message Structure</h2>
-<p>This page shows the system overview and control logic for our team’s <strong>automated curtain control system</strong>. The diagrams illustrate how the main components — the <strong>Hub Controller</strong>, <strong>Sensor Subsystem</strong>, <strong>Motor Control Subsystem</strong>, and <strong>User Input Logic</strong> — interact and exchange data during operation.</p>
-<p>The <strong>block diagram</strong> provides a general overview of how the components are interconnected. The <strong>process (flow) diagram</strong> shows the step-by-step logic of the software, including setup, reading sensor data, checking user input, updating states, and controlling the motor.</p>
+<p>This page provides an overview of the system and control logic for our team’s <strong>automated curtain control system</strong>. The diagrams illustrate how the main components — the <strong>Hub Controller</strong>, <strong>Sensor Subsystem</strong>, <strong>Motor Control Subsystem</strong>, and <strong>User Input Logic</strong> — interact and exchange data during operation.</p>
+<p>The <strong>block diagram</strong> provides a general overview of how the components are interconnected. The <strong>process (flow) diagram</strong> illustrates the step-by-step logic of the software, encompassing setup, reading sensor data, validating user input, updating states, and controlling the motor.</p>
 <hr>
 <h3 id="system-diagrams">System Diagrams</h3>
 <p><strong>Embedded Block &amp; Process Diagram (PNG):</strong><br>
-<a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../images/304SoftwareProposal.drawio.png" data-desc-position="bottom"><img alt="Software Proposal Diagram" src="../images/304SoftwareProposal.drawio.png"></a></p>
+<a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../images/206_Software_Designl.jpg" data-desc-position="bottom"><img alt="Software Proposal Diagram" src="../images/206_Software_Designl.jpg"></a></p>
 <hr>
 <h3 id="source-files">Source Files</h3>
 <ul>
@@ -855,6 +873,9 @@
 - Allowing manual override and LED feedback for testing and debugging.<br>
 - Ensuring scalable integration of additional sensors or user inputs via the shared 8-pin connector and standard message-passing structure.</p>
 <p>Our design process prioritized clear task separation, signal reliability, and maintainable code, making the overall system flexible and robust for future iterations.</p>
+<hr>
+<h3 id="version-20">Version 2.0</h3>
+<p>The V2.0 software will utilize a new piece of encoder hardware to achieve precise, count-based motor control, moving beyond simple timed operation to enable accurate partial opening. This precision is complemented by a vital safety feature, obstruction detection, which immediately halts the motor if the expected encoder count is not reached, thereby preventing hardware damage and alerting the user. Furthermore, the automatic control logic has been upgraded to adaptive automation, which enables the system to analyze historical sensor data and dynamically adjust light and temperature thresholds. This provides a more intelligent and responsive curtain operation compared to the fixed V1.0 settings. Finally, the integration with the new Wi-Fi SoC enables essential quality-of-life features, including remote control via a mobile app and the ability to receive software updates.</p>
 
 
 
