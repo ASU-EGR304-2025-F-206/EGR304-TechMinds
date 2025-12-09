@@ -5,12 +5,16 @@ tags:
 - Team Report
 ---
 
-## User Needs Analysis Process
+### User Needs Analysis Process
 
 Our 4-step methodology:
+
 - **Data Collection** - Selected 5 competing products (SwitchBot 3, RYSE, IKEA, Quoya, Yoolax). Read 20-30 Amazon reviews per product = 100+ total reviews. Captured direct quotes from positive praise + negative complaints
+
 - **Need Extraction** - From each quote, identified 1-3 specific user needs. Explicit needs: Directly stated ("too loud", "easy install"). Latent needs: Inferred from context ("creaking" → "durable internals")
+
 - **Need Restatement** - Rewrote ALL as solution-neutral "Device should..." statements. Removed solution assumptions ("Motor should", "App should"). Tagged each as Explicit or Latent
+
 - **Analysis & Ranking** - Grouped 140+ needs into 7 categories. Ranked High/Medium/Low by frequency across products + customer impact. Used results to prioritize TechMinds design features
 
 ---
