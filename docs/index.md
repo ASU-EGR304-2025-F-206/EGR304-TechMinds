@@ -5,7 +5,7 @@ tags:
 - Team Report
 ---
 <center>
-<font size="8">TechMinds<br>
+<font size="8">Tech Minds<br>
 <font size="5">Team 206<br>
 **Submission: October, 31st, 2025**<br>
 Fall 2025<br>
