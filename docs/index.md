@@ -19,16 +19,22 @@ Professor Kevin Nichols<br>
 ## Welcome 
 > Welcome to the official **TechMinds Project Report Website** for EGR 304. This site provides an overview of our team’s organization, design process, and progress throughout the semester.
 
+---
+
 ## Team Introduction
 **Team 206 (TechMinds)** is committed to fostering a collaborative, inclusive environment where every member actively contributes toward creating meaningful, real-world embedded systems.  
 We prioritize user-centered design, safety, and reliable engineering practices as we design a **modular motion-and-light-sensing curtain control subsystem**.  
 Our work is guided by open communication, shared responsibility, timely feedback, and a focus on measurable outcomes.  
+
+---
 
 ## Project Summary
 
 Our project focuses on developing a **smart curtain control subsystem** that responds to both motion and ambient light levels to enhance energy efficiency, comfort, and accessibility.  
 The system integrates multiple sensors, a microcontroller-based control unit, and modular components for easy customization and scalability.  
 Through iterative prototyping, benchmarking, and empirical testing, our team aims to create a reliable, user-friendly embedded system that aligns with modern home automation trends.
+
+---
 
 ## Project Sections
 You can navigate to the main sections of our report using the top menu or the links below:
@@ -41,6 +47,8 @@ You can navigate to the main sections of our report using the top menu or the li
 - **[Software Proposal](07-Software-Proposal.md)** – Control logic, flow diagrams, and software design plan  
 - **[Appendix](Appendix/App-Team-Org.md)** – Supporting documentation, calculations, and test data
 
+---
+
 ## Team Members Datasheet links
 
 | **Team Member**        |**Ind Datasheet Links** |
@@ -48,3 +56,13 @@ You can navigate to the main sections of our report using the top menu or the li
 | Mihir Patel            | [Mihir-Patel-64.github.io](https://mihir-patel-64.github.io/mihirpatel-individual.github.io/) |
 | Adrian Perez           | [Adrian-XP.github.io](https://adrian-xp.github.io/) |
 | Zane Brauer            | [zane047.github.io](https://zane047.github.io/zane047_EGR304.github.io/) |
+
+---
+
+## Team Circuit Overview
+
+- The following image presents Team 206’s integrated circuit prototype, highlighting the interaction between the motor, temperature sensor, and photoresistor within our smart curtain control subsystem.
+- The motor subsystem drives the curtain mechanism, while the temperature sensor monitors system conditions to help protect hardware from overheating during extended operation.
+- A photoresistor-based light-sensing circuit measures ambient brightness, enabling automated curtain adjustments that improve comfort and energy efficiency in response to real-time environmental changes. 
+
+![Team's Circuit](images/Team_Circuit.jpg)

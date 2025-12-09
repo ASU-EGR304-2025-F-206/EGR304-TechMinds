@@ -183,7 +183,7 @@ For each user need and product requirement, brainstorm 5 different product featu
 | Energy-efficient motor    | Long-life battery         | Medium   | Extends usage without frequent recharging               |
 | Energy-efficient motor    | Open-source software      | Low      | Eliminates licensing fees                                |
 
-![Concept 3](images/Concept-3.jpeg)  <!-- Concept 3: Cost-efficient & Modular -->
+![Concept 3](images/206f3.png)  <!-- Concept 3: Cost-efficient & Modular -->
 
 ---
 
