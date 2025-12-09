@@ -4,16 +4,16 @@ title: Software Design
 
 ## Software Design: Block Diagram, Process Diagram, and Message Structure
 
-This page shows the system overview and control logic for our team’s **automated curtain control system**. The diagrams illustrate how the main components — the **Hub Controller**, **Sensor Subsystem**, **Motor Control Subsystem**, and **User Input Logic** — interact and exchange data during operation.
+This page provides an overview of the system and control logic for our team’s **automated curtain control system**. The diagrams illustrate how the main components — the **Hub Controller**, **Sensor Subsystem**, **Motor Control Subsystem**, and **User Input Logic** — interact and exchange data during operation.
 
-The **block diagram** provides a general overview of how the components are interconnected. The **process (flow) diagram** shows the step-by-step logic of the software, including setup, reading sensor data, checking user input, updating states, and controlling the motor.
+The **block diagram** provides a general overview of how the components are interconnected. The **process (flow) diagram** illustrates the step-by-step logic of the software, encompassing setup, reading sensor data, validating user input, updating states, and controlling the motor.
 
 ---
 
 ### System Diagrams
 
 **Embedded Block & Process Diagram (PNG):**  
-![Software Proposal Diagram](images/304SoftwareProposal.drawio.png)
+![Software Proposal Diagram](images/206_Software_Designl.jpg)
 
 
 ---
@@ -41,3 +41,10 @@ This software structure meets the product requirements by:
 - Ensuring scalable integration of additional sensors or user inputs via the shared 8-pin connector and standard message-passing structure.
 
 Our design process prioritized clear task separation, signal reliability, and maintainable code, making the overall system flexible and robust for future iterations.
+
+---
+
+### Version 2.0
+
+The V2.0 software will utilize a new piece of encoder hardware to achieve precise, count-based motor control, moving beyond simple timed operation to enable accurate partial opening. This precision is complemented by a vital safety feature, obstruction detection, which immediately halts the motor if the expected encoder count is not reached, thereby preventing hardware damage and alerting the user. Furthermore, the automatic control logic has been upgraded to adaptive automation, which enables the system to analyze historical sensor data and dynamically adjust light and temperature thresholds. This provides a more intelligent and responsive curtain operation compared to the fixed V1.0 settings. Finally, the integration with the new Wi-Fi SoC enables essential quality-of-life features, including remote control via a mobile app and the ability to receive software updates.
+
