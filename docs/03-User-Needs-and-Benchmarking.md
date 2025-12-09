@@ -5,6 +5,16 @@ tags:
 - Team Report
 ---
 
+## User Needs Analysis Process
+
+Our 4-step methodology:
+- **Data Collection** - Selected 5 competing products (SwitchBot 3, RYSE, IKEA, Quoya, Yoolax). Read 20-30 Amazon reviews per product = 100+ total reviews. Captured direct quotes from positive praise + negative complaints
+- **Need Extraction** - From each quote, identified 1-3 specific user needs. Explicit needs: Directly stated ("too loud", "easy install"). Latent needs: Inferred from context ("creaking" → "durable internals")
+- **Need Restatement** - Rewrote ALL as solution-neutral "Device should..." statements. Removed solution assumptions ("Motor should", "App should"). Tagged each as Explicit or Latent
+- **Analysis & Ranking** - Grouped 140+ needs into 7 categories. Ranked High/Medium/Low by frequency across products + customer impact. Used results to prioritize TechMinds design features
+
+---
+
 ## 1. SwitchBot Curtain 3
 
 **Price:** $99.99  
@@ -20,18 +30,18 @@ It offers **easy installation**, **quiet operation**, and **smart home integrati
 
 | Voice of the Customer | Restated User Need | Type |
 |----------------------|-----------------|------|
-| "This new version is absolutely silent over a bump I have in my curtain rod…Installation and instructions were super easy…Despite my heavy curtains… the device had no problem moving them." | 1. Device should operate quietly. <br> 2. Installation should be easy and intuitive. <br> 3. Device should move heavy curtains without issues. | Explicit |
-| "I got the version with the remote and I was able to add the remote to the app seamlessly and program the buttons to open and close the curtains." | 1. Device should integrate seamlessly with remote and app. <br> 2. Users should be able to program open/close functions easily. | Explicit |
-| "What I like the most is the 'QuietDrift Control' mode. This function is so quiet that you can't hear it…very useful for the bedtime routine." | 1. Device should have adjustable quiet operation modes. <br> 2. Device should support routines that minimize disturbance. | Latent |
-| "These work very well, even comes with the clips to use for attaching additional curtain panels…videos at the SwitchBot website and YouTube assist with installation." | 1. Device should support various curtain configurations, including multiple panels. <br> 2. Installation instructions and support resources should be available. | Explicit |
+| "This new version is absolutely silent over a bump I have in my curtain rod…Installation and instructions were super easy…Despite my heavy curtains… the device had no problem moving them." | 1. Device should operate quietly - **Explicit** <br> 2. Installation should be easy and intuitive - **Explicit** <br> 3. Device should handle heavy curtains reliably - **Explicit** | Explicit |
+| "I got the version with the remote and I was able to add the remote to the app seamlessly and program the buttons to open and close the curtains." | 1. Device should integrate seamlessly with remote and app - **Explicit** <br> 2. Users should be able to program open/close functions easily - **Explicit** | Explicit |
+| "What I like the most is the 'QuietDrift Control' mode. This function is so quiet that you can't hear it…very useful for the bedtime routine." | 1. Device should have adjustable quiet operation modes - **Latent** <br> 2. Device should support routines that minimize disturbance - **Latent** | Latent |
+| "These work very well, even comes with the clips to use for attaching additional curtain panels…videos at the SwitchBot website and YouTube assist with installation." | 1. Device should support various curtain configurations, including multiple panels - **Explicit** <br> 2. Installation instructions and support resources should be available - **Explicit** | Explicit |
 
 ### Negative Comments Analysis
 
 | Voice of the Customer | Restated User Need | Type |
 |----------------------|-----------------|------|
-| "My Curtain Robot 3 started creaking and clacking…inside is full of broken plastic pieces." | 1. Device should be durable and robust internally. <br> 2. Moving parts should be reinforced to prevent breakage. | Latent |
-| "Switchbot keeps failing off the rail. Unusable." | 1. Device should remain securely on the rail during operation. <br> 2. Reliability should be consistent over time. | Latent |
-| "Not compatible with my curtain rail as the wheels on the irail adapters are too big." | 1. Device should be compatible with a wide range of curtain rods and rails. <br> 2. Adaptors should be adjustable to different sizes. | Latent |
+| "My Curtain Robot 3 started creaking and clacking…inside is full of broken plastic pieces." | 1. Device should be durable and robust internally - **Latent** <br> 2. Moving parts should be reinforced to prevent breakage - **Latent** | Latent |
+| "Switchbot keeps failing off the rail. Unusable." | 1. Device should stay securely attached during use - **Explicit** <br> 2. Reliability should be consistent over time - **Latent** | Explicit/Latent |
+| "Not compatible with my curtain rail as the wheels on the irail adapters are too big." | 1. Device should be compatible with a wide range of curtain rods and rails - **Explicit** <br> 2. Adaptors should be adjustable to different sizes - **Latent** | Explicit/Latent |
 
 ---
 
@@ -51,17 +61,17 @@ The device is **battery-powered**, **easy to install**, and designed for conveni
 
 | Voice of the Customer | Restated User Need | Type |
 |----------------------|-----------------|------|
-| "I recently ordered these Smart Curtains, and it turns out they are incredibly easy to install—literally just a few minutes!…The set includes adhesive strips designed for curtain rods with joints or bends…You can easily adjust the curtain positioning—setting the maximum and minimum opening, fully open, or completely closed." | 1. Device should be quick and easy to install. <br> 2. Device should work smoothly on rods with joints or bends. <br> 3. Users should be able to set precise open/close positions. | Explicit |
-| "I was looking for a smart device to automate my curtains and sync with Google Home…Ryse Smart Curtain is definitely more affordable. It is very easy to setup and the app is great." | 1. Device should integrate with smart home systems like Google Home. <br> 2. Device should be easy to set up via an app. <br> 3. Device should be affordable compared to alternatives. | Latent |
-| "RYSE SmartCurtain is super easy to install and makes opening and closing the curtains feel like a luxury. I love being able to control them from my phone — especially when I’m already in bed!" | 1. Device should enable convenient remote control. <br> 2. Device should improve the user experience / feel luxurious. <br> 3. Device should be installable without remodeling. | Latent |
+| "I recently ordered these Smart Curtains, and it turns out they are incredibly easy to install—literally just a few minutes!…The set includes adhesive strips designed for curtain rods with joints or bends…You can easily adjust the curtain positioning—setting the maximum and minimum opening, fully open, or completely closed." | 1. Device should be quick and easy to install - **Explicit** <br> 2. Device should work smoothly on rods with joints or bends - **Explicit** <br> 3. Users should be able to set precise open/close positions - **Explicit** | Explicit |
+| "I was looking for a smart device to automate my curtains and sync with Google Home…Ryse Smart Curtain is definitely more affordable. It is very easy to setup and the app is great." | 1. Device should integrate with smart home systems like Google Home - **Latent** <br> 2. Device should be easy to set up via an app - **Latent** <br> 3. Device should be affordable compared to alternatives - **Latent** | Latent |
+| "RYSE SmartCurtain is super easy to install and makes opening and closing the curtains feel like a luxury. I love being able to control them from my phone — especially when I’m already in bed!" | 1. Device should enable convenient remote control - **Latent** <br> 2. Device should improve the user experience / feel luxurious - **Latent** <br> 3. Device should be installable without remodeling - **Latent** | Latent |
 
 ### Negative Comments Analysis
 
 | Voice of the Customer | Restated User Need | Type |
 |----------------------|-----------------|------|
-| "The device did not come with a way to charge the battery…The device was not designed to be able to push curtains over a certain length/weight…The devices wouldn’t stay connected via Bluetooth…It makes the most hideous noise." | 1. Device should have a reliable, easy-to-use rechargeable battery. <br> 2. Device should be able to handle curtains of varying length and weight. <br> 3. Device should maintain stable Bluetooth connectivity. <br> 4. Device should operate quietly. | Explicit |
-| "The battery was 40% on opening the box. Strange batteries that can’t be recharged. The device can’t run routines without another purchase." | 1. Device should come with sufficient pre-charged battery. <br> 2. Device should include rechargeable batteries. <br> 3. Device should support automation routines without extra purchases. | Explicit |
-| "This doesn't have the ability to bypass the brackets and therefore can't even close this entire curtain…very expensive at $300 per window." | 1. Device should work with long curtain rods that have brackets. <br> 2. Device should fully operate across large windows. <br> 3. Device should offer value for money relative to price. | Latent |
+| "The device did not come with a way to charge the battery…The device was not designed to be able to push curtains over a certain length/weight…The devices wouldn’t stay connected via Bluetooth…It makes the most hideous noise." | 1. Device should have a reliable, easy-to-use rechargeable battery - **Explicit** <br> 2. Device should be able to handle curtains of varying length and weight - **Explicit** <br> 3. Device should maintain stable Bluetooth connectivity - **Explicit** <br> 4. Device should operate quietly - **Explicit** | Explicit |
+| "The battery was 40% on opening the box. Strange batteries that can’t be recharged. The device can’t run routines without another purchase." | 1. Device should come with sufficient pre-charged battery - **Explicit** <br> 2. Device should include rechargeable batteries - **Explicit** <br> 3. Device should support automation routines without extra purchases - **Explicit** | Explicit |
+| "This doesn't have the ability to bypass the brackets and therefore can't even close this entire curtain…very expensive at $300 per window." | 1. Device should work with long curtain rods that have brackets - **Latent** <br> 2. Device should fully operate across large windows - **Latent** <br> 3. Device should offer value for money relative to price - **Latent** | Latent |
 
 ---
 
@@ -85,17 +95,17 @@ The **cordless design** makes them safer for homes with children and pets, while
 
 | Voice of the Customer | Restated User Need | Type |
 |----------------------|-----------------|------|
-| “I have had 1 of these blinds for 6–8 months… The battery lasts for several months… I recommend buying a DIRIGERA hub… It allowed us to set up a sunrise/sunset scene… The included clips make the blinds stand ~1/2" from the window frame; I had to trim mine for a snug fit.” | 1. Device should have long battery life. <br> 2. Device should integrate with smart hubs like DIRIGERA for automation. <br> 3. Device should support time-based scheduling. <br> 4. Blinds should fit flush or allow easy trimming to fit snugly. | Explicit |
-| “This fit so well, and was very easy to install… very lightweight… I use it daily… still the charge is holding well… Definitely worthwhile over other expensive products” | 1. Blinds should be easy and quick to install. <br> 2. Blinds should be lightweight. <br> 3. Battery should last multiple daily uses without frequent recharging. <br> 4. Product should provide good value compared to costlier alternatives. | Latent |
-| “For the price you can't beat these motorized smart shades… They work with Zigbee… I was able to pair them with my SmartThings hub… Super easy to install… have an internal battery that you have to take out and charge every 4–6 months” | 1. Blinds should be compatible with Zigbee and common smart hubs. <br> 2. Blinds should be easy to install. <br> 3. Blinds should have a long-lasting rechargeable battery. <br> 4. Blinds should offer good price-to-performance value. | Latent |
+| “I have had 1 of these blinds for 6–8 months… The battery lasts for several months… I recommend buying a DIRIGERA hub… It allowed us to set up a sunrise/sunset scene… The included clips make the blinds stand ~1/2" from the window frame; I had to trim mine for a snug fit.” | 1. Device should have long battery life - **Explicit** <br> 2. Device should integrate with smart hubs like DIRIGERA for automation - **Explicit** <br> 3. Device should support time-based scheduling - **Explicit** <br> 4. Blinds should fit flush or allow easy trimming to fit snugly - **Explicit** | Explicit |
+| “This fit so well, and was very easy to install… very lightweight… I use it daily… still the charge is holding well… Definitely worthwhile over other expensive products” | 1. Blinds should be easy and quick to install - **Latent** <br> 2. Blinds should be lightweight - **Latent** <br> 3. Battery should last multiple daily uses without frequent recharging - **Latent** <br> 4. Product should provide good value compared to costlier alternatives - **Latent** | Latent |
+| “For the price you can't beat these motorized smart shades… They work with Zigbee… I was able to pair them with my SmartThings hub… Super easy to install… have an internal battery that you have to take out and charge every 4–6 months” | 1. Blinds should be compatible with Zigbee and common smart hubs - **Latent** <br> 2. Blinds should be easy to install - **Latent** <br> 3. Blinds should have a long-lasting rechargeable battery - **Latent** <br> 4. Blinds should offer good price-to-performance value - **Latent** | Latent |
 
 ### Negative Comments Analysis
 
 | Voice of the Customer | Restated User Need | Type |
 |----------------------|-----------------|------|
-| “The string used to raise/lower the blind broke after 7 months… The blind style is currently unavailable… I have to replace all blinds” | 1. Blinds should be durable for long-term daily use. <br> 2. Replacement parts/styles should remain available for years. <br> 3. Vendor should support mix-and-match replacements to avoid replacing entire sets. | Latent |
-| “Remotes don’t work… even after replacing batteries… very thin paper that can rip easily… not completely even when opening” | 1. Remote controls should function reliably and pair easily. <br> 2. Blind material should be durable and tear-resistant. <br> 3. Blinds should open/close evenly and smoothly. | Explicit |
-| “Ordered 3 blinds… 2 were defective… motor ran but blinds did not retract… rattled when tipped… 66% fail rate” | 1. Product should have consistent manufacturing quality. <br> 2. Product should be tested before shipping to avoid DOA defects. <br> 3. Product should inspire user confidence through reliability. | Latent |
+| “The string used to raise/lower the blind broke after 7 months… The blind style is currently unavailable… I have to replace all blinds” | 1. Blinds should be durable for long-term daily use - **Latent** <br> 2. Replacement parts/styles should remain available for years - **Latent** <br> 3. Vendor should support mix-and-match replacements to avoid replacing entire sets - **Latent** | Latent |
+| “Remotes don’t work… even after replacing batteries… very thin paper that can rip easily… not completely even when opening” | 1. Remote controls should function reliably and pair easily - **Explicit** <br> 2. Blind material should be durable and tear-resistant - **Explicit** <br> 3. Blinds should open/close evenly and smoothly - **Explicit** | Explicit |
+| “Ordered 3 blinds… 2 were defective… motor ran but blinds did not retract… rattled when tipped… 66% fail rate” | 1. Product should have consistent manufacturing quality - **Latent** <br> 2. Product should be tested before shipping to avoid DOA defects - **Latent** <br> 3. Product should inspire user confidence through reliability - **Latent** | Latent |
 
 ---
 
@@ -122,17 +132,17 @@ Includes **mounting brackets and power cable** for a complete setup.
 
 | Voice of the Customer | Restated User Need | Type |
 |----------------------|-----------------|------|
-| “Love it! Has made my life a bit easier. Works great. Integrated with my Alexa so I open and close with voice commands. Scheduler is great…Not too difficult to install. Installation videos were easy to follow. First one took about an hour. Others took 30 minutes-ish.” | 1. Device should integrate with voice assistants. <br> 2. Device should allow automated scheduling. <br> 3. Device installation should be manageable with video instructions. <br> 4. Device should improve user convenience. | Explicit / Latent |
-| “This system is quiet, reliable and solidly built…For a fairly heavy curtain…made of thick aluminum, strong connectors…Assembly was not intuitive, but video instructions were clear…Overall, a fun project, and great result at an excellent price!” | 1. Device should operate quietly. <br> 2. Device should be reliable and durable for heavy curtains. <br> 3. Hardware/components should be strong and well-built. <br> 4. Product should offer good value for money. | Explicit / Latent |
+| “Love it! Has made my life a bit easier. Works great. Integrated with my Alexa so I open and close with voice commands. Scheduler is great…Not too difficult to install. Installation videos were easy to follow. First one took about an hour. Others took 30 minutes-ish.” | 1. Device should integrate with voice assistants - **Explicit** <br> 2. Device should allow automated scheduling - **Latent** <br> 3. Device installation should be manageable with video instructions - **Latent** <br> 4. Device should improve user convenience - **Explicit** | Explicit / Latent |
+| “This system is quiet, reliable and solidly built…For a fairly heavy curtain…made of thick aluminum, strong connectors…Assembly was not intuitive, but video instructions were clear…Overall, a fun project, and great result at an excellent price!” | 1. Device should operate quietly - **Explicit** <br> 2. Device should be reliable and durable for heavy curtains - **Latent** <br> 3. Hardware/components should be strong and well-built - **Explicit** <br> 4. Product should offer good value for money - **Explicit** | Explicit / Latent |
 | “Amazing product…Works like a charm every time…simple creature comfort that brightens your day with a push of a button” | 1. Device should function consistently and reliably. <br> 2. Device should provide an easy, satisfying user experience. | Explicit / Latent |
 
 ### Negative Comments Analysis
 
 | Voice of the Customer | Restated User Need | Type |
 |----------------------|-----------------|------|
-| “If you want to spend 12+ hours trying to assemble this…requires careful planning and coordination…precision of belt cutting…product may not work due to placement of wall hooks.” | 1. Device should be easy to assemble without excessive planning. <br> 2. Assembly instructions/components should minimize risk of installation errors. <br> 3. Device should not require extreme precision in setup. | Explicit / Latent |
-| “If this thing snags it won’t stop…motor pulled system off the ceiling…product is dangerous.” | 1. Device should have a safety mechanism to stop if snagging occurs. <br> 2. Device should prevent accidents during operation. | Explicit |
-| “I purchased three QL500…one stopped opening completely…customer support unresponsive…difficult to determine if setting issue, motor issue, or defect.” | 1. Device should have accessible and responsive customer support. <br> 2. Device should provide clear troubleshooting guidance. <br> 3. Warranty and technical support should be straightforward to access. | Explicit |
+| “If you want to spend 12+ hours trying to assemble this…requires careful planning and coordination…precision of belt cutting…product may not work due to placement of wall hooks.” | 1. Device should be easy to assemble without excessive planning - **Explicit** <br> 2. Assembly instructions/components should minimize risk of installation errors - **Explicit** <br> 3. Device should not require extreme precision in setup - **Latent** | Explicit / Latent |
+| “If this thing snags it won’t stop…motor pulled system off the ceiling…product is dangerous.” | 1. Device should have a safety mechanism to stop if snagging occurs - **Explicit** <br> 2. Device should prevent accidents during operation - **Explicit** | Explicit |
+| “I purchased three QL500…one stopped opening completely…customer support unresponsive…difficult to determine if setting issue, motor issue, or defect.” | 1. Device should have accessible and responsive customer support - **Explicit** <br> 2. Device should provide clear troubleshooting guidance - **Explicit** <br> 3. Warranty and technical support should be straightforward to access - **Explicit** | Explicit |
 
 ---
 
@@ -155,17 +165,17 @@ Ideal for **bedrooms, living rooms, or offices** for both **aesthetic appeal** a
 
 | Voice of the Customer | Restated User Need | Type |
 |----------------------|-----------------|------|
-| “Install was really simple…not needing to connect them to a 3rd party app in order to connect to Alexa…Simply push the little button and hold for 6 seconds…They look much nicer than expected and I love the zebra mode that lets filtered light in when needed.” | 1. Device should be easy to install. <br> 2. Device should connect to Alexa without additional hubs/apps. <br> 3. Device should provide different light-filtering modes. <br> 4. Device should have an attractive design. | Explicit / Latent |
-| “These blinds are perfect!…Customer service goes above and beyond…Elegant feel to my home…Privacy for movie nights is perfect…Easy to install…Life on the motor is fantastic…Bluetooth is the cherry on top!” | 1. Device should enhance home aesthetics. <br> 2. Device should provide privacy control. <br> 3. Device installation should be straightforward. <br> 4. Motor should be long-lasting. <br> 5. Device should include Bluetooth connectivity. <br> 6. Customer service should be responsive. | Explicit / Latent |
-| “We've been enjoying these blinds for over 6 months…Stylish design…Cost-effective…Effective sunlight control…Long-lasting motor…Easy installation…Remote and smart home integration…Custom measurements…Fast delivery…Responsive customer service.” | 1. Device should be stylish and aesthetically pleasing. <br> 2. Device should be cost-effective. <br> 3. Device should block sunlight effectively. <br> 4. Motor should be long-lasting. <br> 5. Device should support remote and smart home integration. <br> 6. Device should offer custom sizing. <br> 7. Device delivery should be timely. <br> 8. Customer support should be responsive. | Explicit / Latent |
+| “Install was really simple…not needing to connect them to a 3rd party app in order to connect to Alexa…Simply push the little button and hold for 6 seconds…They look much nicer than expected and I love the zebra mode that lets filtered light in when needed.” | 1. Device should be easy to install - **Explicit** <br> 2. Device should connect to Alexa without additional hubs/apps - **Explicit** <br> 3. Device should provide different light-filtering modes - **Latent** <br> 4. Device should have an attractive design - **Explicit** | Explicit / Latent |
+| “These blinds are perfect!…Customer service goes above and beyond…Elegant feel to my home…Privacy for movie nights is perfect…Easy to install…Life on the motor is fantastic…Bluetooth is the cherry on top!” | 1. Device should enhance home aesthetics - **Explicit** <br> 2. Device should provide privacy control - **Latent** <br> 3. Device installation should be straightforward - **Explicit** <br> 4. Device should be long-lasting - **Explicit** <br> 5. Device should include Bluetooth connectivity - **Latent** <br> 6. Customer service should be responsive - **Explicit** | Explicit / Latent |
+| “We've been enjoying these blinds for over 6 months…Stylish design…Cost-effective…Effective sunlight control…Long-lasting motor…Easy installation…Remote and smart home integration…Custom measurements…Fast delivery…Responsive customer service.” | 1. Device should be stylish and aesthetically pleasing - **Explicit** <br> 2. Device should be cost-effective - **Latent** <br> 3. Device should block sunlight effectively - **Explicit** <br> 4. Device should be long-lasting - **Latent** <br> 5. Device should support remote and smart home integration - **Latent** <br> 6. Device should offer custom sizing - **Explicit** <br> 7. Device delivery should be timely - **Explicit** <br> 8. Customer support should be responsive - **Explicit** | Explicit / Latent |
 
 ### Negative Comments Analysis
 
 | Voice of the Customer | Restated User Need | Type |
 |----------------------|-----------------|------|
-| “Remote is too cheap feeling…Motor can be loud…Not perfect fit for windows above 2.5 meters…App occasionally disconnects…Fabric frays at edges…No way to replace remote battery easily.” | 1. Remote should feel durable and premium. <br> 2. Motor should operate quietly. <br> 3. Device should accommodate very large windows. <br> 4. App connection should be stable. <br> 5. Fabric should be durable and fray-resistant. <br> 6. Remote should have easy battery replacement. | Explicit / Latent |
-| “Motorized option did not come with wall plugs…Had to purchase separately…Motor sometimes skips…Light filtering not perfectly aligned.” | 1. Device should include all necessary installation hardware. <br> 2. Motor should operate smoothly without skipping. <br> 3. Fabric alignment for light filtering should be precise. | Explicit |
-| “Customer service is slow to respond…Had difficulty getting support for replacement parts…Had to redo installation because the brackets were slightly off.” | 1. Customer support should be prompt. <br> 2. Replacement parts should be easily available. <br> 3. Device installation should tolerate minor bracket misalignments. | Explicit |
+| “Remote is too cheap feeling…Motor can be loud…Not perfect fit for windows above 2.5 meters…App occasionally disconnects…Fabric frays at edges…No way to replace remote battery easily.” | 1. Remote should feel durable and premium - **Explicit** <br> 2. Device should operate quietly - **Latent** <br> 3. Device should accommodate very large windows - **Explicit** <br> 4. App connection should be stable - **Latent** <br> 5. Fabric should be durable and fray-resistant - **Explicit** <br> 6. Remote should have easy battery replacement - **Explicit** | Explicit / Latent |
+| “Motorized option did not come with wall plugs…Had to purchase separately…Motor sometimes skips…Light filtering not perfectly aligned.” | 1. Device should include all necessary installation hardware - **Explicit** <br> 2. Device should operate smoothly without skipping - **Explicit** <br> 3. Fabric alignment for light filtering should be precise - **Explicit** | Explicit |
+| “Customer service is slow to respond…Had difficulty getting support for replacement parts…Had to redo installation because the brackets were slightly off.” | 1. Customer support should be prompt - **Explicit** <br> 2. Replacement parts should be easily available - **Explicit** <br> 3. Device installation should tolerate minor bracket misalignments - **Explicit** | Explicit |
 
 ---
 
@@ -234,7 +244,7 @@ Ideal for **bedrooms, living rooms, or offices** for both **aesthetic appeal** a
 |----------------|-----------------|------|------|
 | Device should move heavy curtains without straining | SwitchBot Curtain 3 | Explicit | High |
 | Device should maintain smooth movement without jerking | Quoya, Yoolax | Explicit | High |
-| Device should operate quietly without loud motors | SwitchBot, Quoya, Yoolax, RYSE | Explicit | High |
+| Device should operate quietly | SwitchBot, Quoya, Yoolax, RYSE | Explicit | High |
 | Device should operate reliably under repeated daily use | Quoya, SwitchBot, IKEA | Explicit | High |
 | Device should be compatible with a wide range of curtain types | SwitchBot, RYSE | Explicit | High |
 | Device should maintain proper synchronization if multiple units are installed | Yoolax | Explicit | Medium |

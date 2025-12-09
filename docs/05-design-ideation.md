@@ -148,7 +148,7 @@ For each user need and product requirement, brainstorm 5 different product featu
 | Durability               | UV-resistant material              | Medium   | Prevents sun damage and surface degradation           |
 | Durability               | Sealed electronics                 | Medium   | Moisture-proof to resist wear and tear               |
 
-![Concept 1](images/Concept-1.jpeg)  <!-- Concept 1: Smart Safety-Focused Curtain -->
+![Concept 1](images/304f1b.png)  <!-- Concept 1: Smart Safety-Focused Curtain -->
 
 ---
 
@@ -165,7 +165,7 @@ For each user need and product requirement, brainstorm 5 different product featu
 | Software/Smart Features | Touch & Go Detection Mode | Medium   | Detects manual curtain interaction and responds automatically |
 | Software/Smart Features | Remote action mapping     | Low      | Physical remote buttons trigger custom actions             |
 
-![Concept 2](images/Concept-2.jpeg)  <!-- Concept 2: Convenience & Smart Automation -->
+![Concept 2](images/304f2.png)  <!-- Concept 2: Convenience & Smart Automation -->
 
 ---
 **Concept 3: Cost-efficient & Modular**
